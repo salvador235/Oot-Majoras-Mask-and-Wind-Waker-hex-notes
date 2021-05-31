@@ -1,0 +1,5 @@
+Dark Link Room or Sutaru with 5 actors cheat code
+802B0BC1 0005
+812B0BD0 0032
+812B0BFE 00FF
+812B0BFF 00FF

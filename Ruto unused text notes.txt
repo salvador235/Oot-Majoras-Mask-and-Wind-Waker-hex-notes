@@ -1,0 +1,21 @@
+Used
+<NS><DI>You!<DC>
+You looked cool...cooler than I 
+thought you would, anyway... 
+<DI>Just a little!<DC>
+<New Box>
+<NS>Well, anyway, you saved me, so I 
+guess I'll reward you.
+<New Box>
+<NS>What do you wish? Just tell me...
+
+<Two Choices><G>I want that Spiritual Stone.
+Nothing really...<W>
+
+Unused 0x4023
+<NS><DI>I was scared...<DC>
+<DI>A little!<DC> Just a little!!
+
+Unused 0x4024
+<NS><Player>!
+<Player>!

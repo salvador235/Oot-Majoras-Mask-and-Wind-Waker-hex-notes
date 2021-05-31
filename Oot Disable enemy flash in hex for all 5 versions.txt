@@ -1,0 +1,16 @@
+Oot Disable enemy flash death in hex for 5 versions of Oot (Could possibly be more.)
+
+MQ Debug
+B35573 50 to 00
+
+0.9
+B11AE3 50 to 00
+
+1.0 U
+B11C33 50 to 00
+
+1.2 U
+B11CE3 50 to 00
+
+Gamecube Debug
+B35593 50 to 00

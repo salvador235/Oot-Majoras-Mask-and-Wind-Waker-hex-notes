@@ -1,0 +1,11 @@
+109e
+
+<Pixels Right:11>The children of the forest, the
+<Pixels Right:25>Kokiri, live here with me.<Delay:60><Pixels Right:11>Each Kokiri has his or her own
+<Pixels Right:56>guardian fairy.<Delay:60>
+<Pixels Right:11>There was only one<R> boy <W>who did
+<Pixels Right:50>not have a fairy.<Fade:60>
+
+109f
+<Pixels Right:11>There is a reason for this....and
+<Pixels Right:18>now I will tell you the tale...<Fade:60>

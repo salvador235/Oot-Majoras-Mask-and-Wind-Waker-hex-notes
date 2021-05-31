@@ -1,0 +1,19 @@
+Makes Tent Appear for Child Link
+
+MQ Debug
+
+C80828- 0x24020011
+
+24 01 00 11 30 63 00 0F 38 63 00 0F 11 E0 00 03
+
+1.0 U
+D215CB 05 to 11
+
+0.9 
+D20E5B 05 to 11
+
+1.2 U
+D2198B 05 to 11
+
+Gamecube Debug
+C808CB 05 to 11

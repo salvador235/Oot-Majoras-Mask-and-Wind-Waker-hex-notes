@@ -1,0 +1,55 @@
+
+
+ENGLISH
+Starts at
+8C6000 8C600F
+
+8FE110-8FE120
+
+
+German
+8ff000
+
+8FEDB0
+
+
+
+
+8FF9C0
+
+
+
+All of Text
+
+
+     008C6000
+End: 009721AF
+
+
+
+
+
+ENGLISH
+Mine
+starts
+8C6000 8C600F
+
+ends
+9048F0  9048FF
+
+Credit stuff
+973000
+
+
+93A9C0 Germa 
+
+My text addon hack End 906168 old crash
+new 905F40
+
+New new 905F38
+
+New new new
+905F10
+
+
+905838

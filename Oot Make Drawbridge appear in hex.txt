@@ -1,0 +1,5 @@
+Drawbridge notes
+
+Broken Drawbridge appear as child Link
+MQ Debug
+C78360- 00000000000000000000000000000000

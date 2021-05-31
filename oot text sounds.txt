@@ -1,0 +1,5 @@
+<Sound:685C> girl sound
+
+<Sound:6836> Child Link Surprised Gasp
+
+<Sound:203A>

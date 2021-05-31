@@ -1,0 +1,10 @@
+Back Alley restriction flag
+101015= no using sword, hookshot, dins fire, and global
+
+001015= using sword, hookshot, dins fire, and global
+
+1.0 U B6D369 1.2= same
+
+0.9 B6D159
+
+MQ Debug B9CAC9  GC Debug= B9CAE9

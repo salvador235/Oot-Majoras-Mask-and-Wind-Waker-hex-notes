@@ -1,0 +1,5 @@
+Tunic Colors (3 bytes RGB)
+NTSC 1.0    NTSC 1.2    Debug ROM    Usage
+B6DA38    B6DA48    B9D1A8    Kokiri Tunic color
+B6DA3B    B6DA4B    B9D1AB    Goron Tunic color
+B6DA3E    B6DA4E    B9D1AE    Zora Tunic color

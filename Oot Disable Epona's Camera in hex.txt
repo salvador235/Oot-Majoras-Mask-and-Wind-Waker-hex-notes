@@ -1,0 +1,15 @@
+MQ Debug
+
+AA505B 06 to 00
+
+0.9
+A977A7 06 to 00
+
+1.0 U (Same)
+A977A7 06 to 00
+
+1.2 U (Same)
+A977A7 06 to 00
+
+Gamecube Debug (Same as MQ Debug)
+AA505B 06 to 00

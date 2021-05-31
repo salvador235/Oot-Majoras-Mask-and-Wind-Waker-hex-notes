@@ -1,0 +1,16 @@
+B888C6- text x coord 30 to 25 to 26
+
+B88257- text y coord 10 to 0E
+
+X coord for text A
+B880A6- BA to B8
+
+
+b88257 Y for navi and scale for A text -10 to 0E
+
+b8823b Navi Y 14 to 12
+
+
+b886c6 C up icon FE
+
+B884E3 F7 to F6

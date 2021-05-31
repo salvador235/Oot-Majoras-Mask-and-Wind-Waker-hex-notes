@@ -1,0 +1,16 @@
+Oot MQ Debug
+
+B88257- Y for navi and scale for A text- 10 to 0E
+b8823b Navi Y 14 to 12
+B884E3 F7 to F6
+B87F9C- 10 to 0E 41
+
+80210F55
+80211222
+
+2CD
+
+B884E3+2CD= B887B0 8C 
+B887B1 58
+
+B88216 FA
