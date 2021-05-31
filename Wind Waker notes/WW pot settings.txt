@@ -1,0 +1,6 @@
+IPF 127
+
+Unknown 3
+Invincible when off camera 7
+
+255

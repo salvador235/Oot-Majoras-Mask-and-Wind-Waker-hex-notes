@@ -1,0 +1,23 @@
+Makar Seed-Planting Spot
+#1
+-300
+
+3715
+
+2500
+
+EN -1
+
+Unknown 20
+
+#2
+
+300
+
+3715
+
+2500
+
+EN-1
+
+Unknown 21

@@ -1,0 +1,19 @@
+-1
+
+Behavior type Miniboss
+Disable Spawn on Death Switch 69
+Enable Spawn Switch 255
+
+path_0
+Many Keese and Magtails
+
+
+-192933.8
+
+1825.227
+
+318867.8
+
+17.99561
+
+Green Rupee

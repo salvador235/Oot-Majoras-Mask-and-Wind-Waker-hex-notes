@@ -1,0 +1,62 @@
+1490.586
+1803
+2456.586
+
+
+4185.455
+1800.767
+-439.5039
+
+
+-1761.638
+1910.227
+-4736.23
+
+Title of one of my videos
+Wind Waker Mod Floormasters in FF1 restored and pot with red rupee 71 switch in TOG
+
+
+1800.767
+
+761.2497
+
+217410
+
+631.5665
+
+197233.4
+
+1153.26- 1520
+
+1153.269 -1520.9
+
+Better WW Test 14 added maps DRC camera, Ocean npc, Forest Haven camera
+
+1400
+
+1090.9
+
+Better WW Test 14 added maps DRC, Ocean npc, Forest Haven camera
+
+Removed magtail in DRC
+
+664.2307
+
+64.6813
+
+156.2466
+
+Sturdy Board E3 replica
+YR 113.5132
+
+-89.98102
+
+113.5052
+
+-1117.81
+
+200
+
+This is for the USA version. But maybe you can use it for the Japanese version if you don't use the "sea" and "cave 10" folders. Unsure. So anyways, I restore the Floormasters in FF1 and add some candles in FF1 and FF2. I add back the Octorocks in the Tower of the Gods as well as a switch that triggers a unused red rupee pot. In the Wind Temple, I add back that iron boots switch that triggers the joy pendant chest as well as unused makar plants from cave 08. In Outset, I add 3 pots near Orca's house as well as the unused Weak boarded up wall up the hill. I changed DRC so some rooms are like the E3 version when it comes to the actors. In cave 03 or the underground forest area, I added the unused Spike Tentacle Blockage from layer 7 to the default layer. In Orca's house upstairs, I put some actors from layer 7 I think to the default layer so they load. Also included 2 pots near the window but I had to move them. In Puppet Ganon's boss room, I restored some unused platforms and the plants. The plants are those shooting things Link can jump in. In the unused K_test 2, I put of the layer 7 unused actors to the default layer. In the sailing minigame, the npc is loaded. In the unused ktest e, I restore the 2 seagulls actors.
+
+3669.681
