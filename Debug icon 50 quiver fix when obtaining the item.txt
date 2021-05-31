@@ -1,0 +1,10 @@
+MQ Debug icon 50 fix for Biggest Quiver when obtaining the item's text.
+
+English
+8C8EF2- 4B to 4C
+
+German
+901C4E- 4B to 4C
+
+French
+93DD56- 4B to 4C

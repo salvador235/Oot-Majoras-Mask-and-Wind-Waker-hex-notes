@@ -1,0 +1,12 @@
+Screen Fix 1 for decompressed
+B127F7 02 to 03
+
+Screen fix 2
+B15C80
+0C 02 7C 22 to 00 00 00 00
+
+Faster Text
+B4FE5F 01 to 02
+
+Navi C up text more centered
+B580CF F7 to F6

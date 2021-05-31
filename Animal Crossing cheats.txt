@@ -1,0 +1,722 @@
+Enable Debug Mode [Ralf]
+ZQJ2-FQYR-J4DZ4
+K5FW-Y9WY-MH2PZ
+UAXQ-3T7A-XKN3D
+
+Debug stuff can be controlled with a second controller plugged into port 2.
+
+Debug Mode On/Off (Press R + DPad Up/Down) [Ralf]
+JBGN-MHB5-WH70F
+WB5R-Y7YH-6FBHC
+28MN-D9B7-NAP8K
+12P0-Z375-UK3AG
+2N5Z-GB2B-H3BTZ
+
+Enable Forest Map Select (Press RESET) [Ralf]
+NP7E-4T7X-QX8PU
+NWFQ-2WNR-99BU7
+15GC-XJ2U-URG0F
+K4T2-961B-NEAHM
+7551-MZYA-H9J40
+K662-MYEH-HT81Q
+
+Press the RESET button once at title screen or twice in-game to activate the
+Forest Map Select screen.
+
+Enable Debug Player Select (Press RESET) [Ralf]
+2QDF-X2YZ-7GH27
+PQ07-R7PA-NN3HV
+15GC-XJ2U-URG0F
+K4T2-961B-NEAHM
+7551-MZYA-H9J40
+K662-MYEH-HT81Q
+
+Enable Debug FlashROM Screen (Press RESET) [Ralf]
+PQDC-MQT9-9HWJ0
+WNRR-EH35-7UAY7
+15GC-XJ2U-URG0F
+K4T2-961B-NEAHM
+7551-MZYA-H9J40
+K662-MYEH-HT81Q
+
+Replace Train Monkey With Blazel (Beta Villager) [Ralf]
+DN3N-TNFR-04UG3
+P514-477F-7ZD57
+5U9D-3Y3U-2HP46
+
+16:9 Aspect Ratio (Widescreen) [Ralf]
+NHWZ-ZZKD-W1PGZ
+YJGY-0KZP-RRGW0
+TPR1-4D69-MNW2V
+XH2K-V062-FJC5U
+C4Z7-98MH-ETDZ9
+NHY5-6UGD-B5UCJ
+
+Max Friendship [Ralf]
+2ZC7-JBB2-446T8
+BVK5-A4RK-BBTFG
+5BV0-TGKK-KTB0C
+
+No Friendship [Ralf]
+Q090-Z2ER-YU0G2
+BVK5-A4RK-BBTFG
+MX17-RV7W-TY6JG
+
+Never Have Cockroaches [Ralf]
+1681-VT09-DA4AY
+Q3J5-DKV5-EWMRH
+RPY2-F5P3-9FGXV
+
+Always Have Cockroaches [Ralf]
+Z531-90WG-R71PP
+Q3J5-DKV5-EWMRH
+PW0F-62HY-141X9
+
+Weed-B-Gone (Enter House) [Ralf]
+J7DM-BZTU-N6DTB
+ZRC7-56EH-GB8FJ
+
+All Items Purchasable (Catalog) [Ralf]
+EKW4-J37K-W1MNT
+B3GH-Y8GW-0YZR0
+KGAZ-5Q90-EK6B3
+TFVP-PYPF-DFG7B
+Q9XY-6V2X-YGN76
+ZWBZ-5CYM-8TMC5
+
+Shop: 24h Open [Ralf]
+MBJH-YB4U-C09EP
+Y2K2-W636-BUGUF
+38C4-DZJU-0650T
+
+Walk & Run Faster [Ralf]
+7416-A2J2-EU711
+E5M2-3BN3-KM81W
+7GET-R2AT-BTQUW
+
+Go Anywhere [Ralf]
+HNDH-NNBB-D87YB
+TNZR-AZ05-D7G73
+92AM-GAN0-4NFJD
+
+Go Anywhere On/Off (Press R + DPad Up/Down) [Ralf]
+8N5J-737X-K97B4
+451J-R178-MWEVP
+K3EC-A9CK-XC88W
+8QFF-B90Q-GMVD0
+RJET-RP10-V2ZK1
+TNZR-AZ05-D7G73
+92AM-GAN0-4NFJD
+
+Flowers Can't Be Trampled [Ralf]
+H08J-7PDZ-3CXZH
+63CU-4DUJ-XG424
+
+Draw Process Bar [Ralf]
+UQR7-6RX3-PTMWW
+BVV1-PPZU-R7K4U
+2HWN-7X03-JKRV4
+
+Enable NES Emulator Filer Mode [Ralf]
+F20U-279N-NVC1N
+6B7W-Y0C8-HQA3Y
+77RW-NM18-ZAT3V
+P65Q-GZF2-VG196
+
+Filer Mode Control Keys:
+
+R               = Filer Mode On/Off
+B               = Auto Demo Mode
+DPad Up/Down    = Previous/Next Game
+DPad Left/Right = Jump to Clu Clu Land
+
+Camera Modifier (Press L + DPad Up/Down/Left) [Ralf]
+ZGMW-4UNM-KH4UN
+7PUC-0WXZ-MJM3W
+JRHJ-8V1M-B2XUD
+XPNY-AFDE-UV5V8
+DCE1-B0E4-VETJF
+K893-PA8H-K23X3
+KPWY-BRFT-HQ2B2
+EWKM-Q8PU-6B760
+DAGH-U8ZY-UHMVC
+PNFR-3DVT-DU55Q
+E9FZ-A3QA-YCERP
+EGNF-XCXH-AGYJV
+PW80-A0H8-C713Y
+0X4D-AA0Y-7F592
+CWDH-A6GZ-FDEHF
+
+L + DPad Up   = Zoom In
+L + DPad Down = Zoom Out
+L + DPad Left = Normal/Reset & Activate Code
+
+Player Size Modifier (Press R + DPad Up/Down/Left) [Ralf]
+0XJ3-YCA6-JY1UQ
+Q8WN-JW2T-FW525
+B07N-U3WY-AUABZ
+BKDT-MUNQ-T3KHR
+F9DA-6T38-GVRN4
+J5RH-AC5R-4TKGJ
+53AB-C1J5-ACHT7
+D3TC-JMVQ-6YZFU
+CA82-GZ79-516KW
+AVP5-NDP7-KMVC9
+AYAE-Q9W6-DU6GT
+WB5R-Y7YH-6FBHC
+EFZF-BHDV-TN3WW
+12P0-Z375-UK3AG
+07YX-WZ7T-33Y9P
+
+R + DPad Up   = Grow
+R + DPad Down = Shrink
+R + DPad Left = Normal/Reset & Activate Code
+
+Clock Always On (Field) [Ralf]
+BY1B-7M0A-7DD8R
+THX1-JWZ1-AQA1A
+
+Clock Always Off (Field) [Ralf]
+YTTD-KNU7-9XY89
+C274-AMMP-5083D
+
+
+No Background Music [Ralf]
+ZPJ7-D6AT-C889Z
+UWMZ-B1V8-T9QK9
+6BTB-PUX5-9G758
+
+Background Music Volume Modifier [Ralf]
+040141B4 C3E2807C
+04218C5C xxxxxxxx
+
+xxxxxxxx = Volume (IEEE-754 SP Floating-Point Number)
+
+00000000 -   0%
+3F000000 -  50%
+3F800000 - 100%
+
+
+Player 1 Tan Modifier [Ralf]
+012687E8 000000xx
+
+Player 2 Tan Modifier [Ralf]
+0126AC28 000000xx
+
+Player 3 Tan Modifier [Ralf]
+0126D068 000000xx
+
+Player 4 Tan Modifier [Ralf]
+0126F4A8 000000xx
+
+xx = Tan 00 .. 08 (Max)
+
+
+Player 1 Max Tan [Ralf]
+XBDP-0CD1-C8E8F
+51TW-ZPPH-D1ZWJ
+
+
+Season Modifier (GFX Only) [Ralf]
+04003960 386000xx
+04003964 54661838
+04003968 483EFB1C
+043F3480 4BC104E0
+
+xx = Season
+
+
+Seasons
+
+00 - Winter (01. Jan - 03. Feb)
+01 - Winter (04. Feb - 17. Feb)
+02 - Winter (18. Feb - 24. Feb)
+03 - Spring (25. Feb - 31. Mar)
+04 - Spring (01. Apr - 08. Apr)
+05 - Spring (09. Apr - 25. May)
+06 - Summer (26. May - 22. Jul)
+07 - Summer (23. Jul - 31. Aug)
+08 - Summer (01. Sep - 15. Sep)
+09 - Autumn (16. Sep - 30. Sep)
+0A - Autumn (01. Oct - 15. Oct)
+0B - Autumn (16. Oct - 29. Oct)
+0C - Autumn (30. Oct - 12. Nov)
+0D - Autumn (13. Nov - 28. Nov)
+0E - Autumn (29. Nov - 09. Dec)
+0F - Winter (10. Dec - 17. Dec)
+10 - Winter (18. Dec - 25. Dec)
+11 - Winter (26. Dec - 31. Dec)
+
+
+Endless Summer [Ralf]
+3ZMU-TPAZ-5M4YC
+7AD4-RVGG-BM246
+Q8DZ-HHQC-NN5ZC
+V8BX-PW42-7BM8B
+53ED-38BF-FBEUW
+
+
+Villager Model Replacer [Ralf]
+040051A0 3C600001
+040051A4 3863xxxx
+040051A8 7C032040
+040051AC 7C832378
+040051B0 4082000C
+040051B4 3C600001
+040051B8 3863yyyy
+040051BC 4E800020
+0453A198 4BACB009
+04544FFC 4BAC01A5
+
+Replaces villager model xxxx with model yyyy.
+
+
+Villager Model Modifier [Ralf]
+040051A0 3C600001
+040051A4 3863xxxx
+040051A8 4E800020
+0453A198 4BACB009
+04544FFC 4BAC01A5
+
+xxxx = Villager Model ID
+
+
+Regular Villager Model IDs
+
+E000 - Bob (Cat)
+E001 - Olivia (Cat)
+E002 - Mitzi (Cat)
+E003 - Kiki (Cat)
+E004 - Tangy (Cat)
+E005 - Kabuki (Cat)
+E006 - Tabby (Cat)
+E007 - Monique (Cat)
+E008 - Stinky (Cat)
+E009 - Purrl (Cat)
+E00A - Kitty (Cat)
+E00B - Tom (Cat)
+E00C - Rosie (Cat)
+E00D - Nosegay (Anteater)
+E00E - Zoe (Anteater)
+E00F - Pango (Anteater)
+
+E010 - Cyrano (Anteater)
+E011 - Snooty (Anteater)
+E012 - Teddy (Bear)
+E013 - Chow (Bear)
+E014 - Dozer (Bear)
+E015 - Nate (Bear)
+E016 - Groucho (Bear)
+E017 - Tutu (Bear)
+E018 - Ursula (Bear)
+E019 - Grizzly (Bear)
+E01A - Pinky (Bear)
+E01B - Jay (Bird)
+E01C - Twiggy (Bird)
+E01D - Anchovy (Bird)
+E01E - Piper (Bird)
+E01F - Admiral (Bird)
+
+E020 - Otis (Bird)
+E021 - Robin (Bird)
+E022 - Midge (Bird)
+E023 - Ace (Bird)
+E024 - Twirp (Bird)
+E025 - Chuck (Cow)
+E026 - Stu (Cow)
+E027 - Goose (Chicken)
+E028 - Betty (Chicken)
+E029 - Hector (Chicken)
+E02A - Egbert (Chicken)
+E02B - Ava (Chicken)
+E02C - Hank (Chicken)
+E02D - Leigh (Chicken)
+E02E - Rhoda (Chicken)
+E02F - Vladimir (Bear)
+
+E030 - Murphy (Bear)
+E031 - Cupcake (Bear)
+E032 - Kody (Bear)
+E033 - Maple (Bear)
+E034 - Pudge (Bear)
+E035 - Olive (Bear)
+E036 - Poncho (Bear)
+E037 - Bluebear (Bear)
+E038 - Patty (Cow)
+E039 - Petunia (Cow)
+E03A - Bessie (Cow)
+E03B - Belle (Cow)
+E03C - Alfonso (Alligator)
+E03D - Boots (Alligator)
+E03E - Liz (Alligator)
+E03F - Biskit (Dog)
+
+E040 - Goldie (Dog)
+E041 - Daisy (Dog)
+E042 - Lucky (Dog)
+E043 - Portia (Dog)
+E044 - Maddie (Dog)
+E045 - Butch (Dog)
+E046 - Bill (Duck)
+E047 - Pompom (Duck)
+E048 - Joey (Duck)
+E049 - Scoot (Duck)
+E04A - Derwin (Duck)
+E04B - Freckles (Duck)
+E04C - Paolo (Elephant)
+E04D - Dizzy (Elephant)
+E04E - Axel (Elephant)
+E04F - Emerald (Frog)
+
+E050 - Tad (Frog)
+E051 - Wart Jr. (Frog)
+E052 - Cousteau (Frog)
+E053 - Puddles (Frog)
+E054 - Lily (Frog)
+E055 - Jeremiah (Frog)
+E056 - Huck (Frog)
+E057 - Camofrog (Frog)
+E058 - Ribbot (Frog)
+E059 - Prince (Frog)
+E05A - Jambette (Frog)
+E05B - Billy (Goat)
+E05C - Chevre (Goat)
+E05D - Iggy (Goat)
+E05E - Gruff (Goat)
+E05F - Sven (Goat)
+
+E060 - Velma (Goat)
+E061 - Jane (Gorilla)
+E062 - Cesar (Gorilla)
+E063 - Louie (Gorilla)
+E064 - Peewee (Gorilla)
+E065 - Rollo (Hippo)
+E066 - Bubbles (Hippo)
+E067 - Bertha (Hippo)
+E068 - Elmer (Horse)
+E069 - Winnie (Horse)
+E06A - Savannah (Horse)
+E06B - Ed (Horse)
+E06C - Cleo (Horse)
+E06D - Peaches (Horse)
+E06E - Buck (Horse)
+E06F - Carrie (Kangaroo)
+
+E070 - Mathilda (Kangaroo)
+E071 - Marcy (Kangaroo)
+E072 - Kitt (Kangaroo)
+E073 - Valise (Kangaroo)
+E074 - Astrid (Kangaroo)
+E075 - Sydney (Koala)
+E076 - Gonzo (Koala)
+E077 - Ozzie (Koala)
+E078 - Yuka (Koala)
+E079 - Huggy (Koala)
+E07A - Rex (Lion)
+E07B - Aziz (Lion)
+E07C - Leopold (Lion)
+E07D - Samson (Mouse)
+E07E - Penny (Mouse)
+E07F - Dora (Mouse)
+
+E080 - Chico (Mouse)
+E081 - Candi (Mouse)
+E082 - Rizzo (Mouse)
+E083 - Anicotti (Mouse)
+E084 - Limberg (Mouse)
+E085 - Carmen (Mouse)
+E086 - Octavian (Octopus)
+E087 - Sandy (Ostrich)
+E088 - Sprocket (Ostrich)
+E089 - Rio (Ostrich)
+E08A - Queenie (Ostrich)
+E08B - Apollo (Hawk)
+E08C - Buzz (Hawk)
+E08D - Quetzal (Hawk)
+E08E - Amelia (Hawk)
+E08F - Pierce (Hawk)
+
+E090 - Roald (Penguin)
+E091 - Aurora (Penguin)
+E082 - Hopper (Penguin)
+E093 - Cube (Penguin)
+E094 - Puck (Penguin)
+E095 - Gwen (Penguin)
+E096 - Friga (Penguin)
+E097 - Curly (Pig)
+E098 - Truffles (Pig)
+E099 - Spork (Pig)
+E09A - Hugh (Pig)
+E09B - Rasher (Pig)
+E09C - Sue E (Pig)
+E09D - Hambo (Pig)
+E09E - Lucy (Pig)
+E09F - Cobb (Pig)
+
+E0A0 - Boris (Pig)
+E0A1 - Bunnie (Rabbit)
+E0A2 - Doc (Rabbit)
+E0A3 - Gaston (Rabbit)
+E0A4 - Coco (Rabbit)
+E0A5 - Gabi (Rabbit)
+E0A6 - Dotty (Rabbit)
+E0A7 - Genji (Rabbit)
+E0A8 - Snake (Rabbit)
+E0A9 - Claude (Rabbit)
+E0AA - Tank (Rhino)
+E0AB - Spike (Rhino)
+E0AC - Tiara (Rhino)
+E0AD - Vesta (Sheep)
+E0AE - Filbert (Squirrel)
+E0AF - Hazel (Squirrel)
+
+E0B0 - Peanut (Squirrel)
+E0B1 - Pecan (Squirrel)
+E0B2 - Ricky (Squirrel)
+E0B3 - Static (Squirrel)
+E0B4 - Mint (Squirrel)
+E0B5 - Nibbles (Squirrel)
+E0B6 - Tybalt (Tiger)
+E0B7 - Rolf (Tiger)
+E0B8 - Bangle (Tiger)
+E0B9 - Lobo (Wolf)
+E0BA - Freya (Wolf)
+E0BB - Chief (Wolf)
+E0BC - Weber (Duck)
+E0BD - Mallary (Duck)
+E0BE - Wolfgang (Wolf)
+E0BF - Hornsby (Rhino)
+
+E0C0 - Oxford (Cow)
+E0C1 - T-Bone (Cow)
+E0C2 - Biff (Hippo)
+E0C3 - Opal (Elephant)
+E0C4 - Bones (Dog)
+E0C5 - Bea (Dog)
+E0C6 - Bitty (Hippo)
+E0C7 - Rocco (Hippo)
+E0C8 - Lulu (Hippo)
+E0C9 - Blaire (Squirrel)
+E0CA - Sally (Squirrel)
+E0CB - Ellie (Elephant)
+E0CC - Eloise (Elephant)
+E0CD - Alli (Alligator)
+E0CE - Pippy (Rabbit)
+E0CF - Eunice (Sheep)
+
+E0D0 - Baabara (Sheep)
+E0D1 - Fang (Wolf)
+E0D2 - Deena (Duck)
+E0D3 - Pate (Duck)
+E0D4 - Stella (Sheep)
+E0D5 - Cashmere (Sheep)
+E0D6 - Woolio (Sheep)
+E0D7 - Cookie (Dog)
+E0D8 - Maelle (Duck - Islander)
+E0D9 - O'Hare (Rabbit - Islander)
+E0DA - Bliss (Squirrel - Islander)
+E0DB - Drift (Frog - Islander)
+E0DC - Bud (Lion - Islander)
+E0DD - Boomer (Duck - Islander)
+E0DE - Eilina (Elephant - Islander)
+E0DF - Flash (Bird - Islander)
+
+E0E0 - Dobie (Wolf - Islander)
+E0E1 - Flossie (Mouse - Islander)
+E0E2 - Annalise (Horse - Islander)
+E0E3 - Plucky (Chicken - Islander)
+E0E4 - Faith (Koala - Islander)
+E0E5 - Yodel (Gorilla - Islander)
+E0E6 - Rowan (Tiger - Islander)
+E0E7 - June (Bear - Islander)
+E0E8 - Cheri (Bear)
+E0E9 - Pigleg (Pig - Islander)
+E0EA - Ankha (Cat - Islander)
+E0EB - Punchy (Cat)
+
+
+Special Villager Model IDs
+
+D000 - Wendell (Walrus)
+D001 - Redd (Fox)
+D002 - Gracie (Giraffe)
+D003 - Pelly (Pelican)
+D004 - Rover (Cat)
+D005 - Rover (Cat)
+D006 - Saharah (Camel)
+D007 - Joan (Pig - Backpack)
+D008 - Tom Nook (Raccoon - Blue Apron)
+D009 - Tom Nook (Raccoon - Striped Shirt)
+D00A - Tom Nook (Raccoon - White Apron)
+D00B - Tom Nook (Raccoon - Blue Suit)
+D00C - Katrina (Cat)
+D00D - Copper (Dog)
+D00E - Porter (Monkey)
+D00F - Jingle (Reindeer)
+
+D010 - Booker (Dog)
+D011 - Pete (Pelican)
+D012 - Phyllis (Pelican)
+D013 - Redd (Fox)
+D014 - Tom Nook (Raccoon - Blue Apron)
+D015 - Tom Nook (Raccoon - Striped Shirt)
+D016 - Tom Nook (Raccoon - White Apron)
+D017 - Tom Nook (Raccoon - Blue Suit)
+D018 - K.K. Slider (Dog)
+D019 - Tom Nook (Raccoon - Blue Apron)
+D01A - Tom Nook (Raccoon - Striped Shirt)
+D01B - Tom Nook (Raccoon - White Apron)
+D01C - Tom Nook (Raccoon - Blue Suit)
+D01D - Chip (Beaver)
+D01E - Tom Nook (Raccoon - Striped Apron)
+D01F - K.K. Slider (Dog)
+
+D020 - Jack (Spooky Spirit)
+D021 - Jack (Spooky Spirit)
+D022 - Jack (Spooky Spirit)
+D023 - Jack (Spooky Spirit)
+D024 - Jack (Spooky Spirit)
+D025 - Jack (Spooky Spirit)
+D026 - Tommy (Raccoon)
+D027 - K.K. Slider (Dog)
+D028 - K.K. Slider (Dog)
+D029 - K.K. Slider (Dog)
+D02A - K.K. Slider (Dog)
+D02B - K.K. Slider (Dog)
+D02C - Redd (Fox - Striped Apron)
+D02D - K.K. Slider (Dog)
+D02E - K.K. Slider (Dog)
+D02F - K.K. Slider (Dog)
+
+D030 - K.K. Slider (Dog)
+D031 - K.K. Slider (Dog)
+D032 - K.K. Slider (Dog)
+D033 - K.K. Slider (Dog)
+D034 - K.K. Slider (Dog)
+D035 - K.K. Slider (Dog)
+D036 - K.K. Slider (Dog)
+D037 - Timmy (Raccoon)
+D038 - Joan (Pig)
+D039 - Redd (Fox)
+D03A - Tom Nook (Raccoon - Striped Apron)
+D03B - Tom Nook (Raccoon - Striped Apron)
+D03C - Tom Nook (Raccoon - Striped Apron)
+D03D - Katrina (Cat)
+D03E - Mr. Resetti (Mole)
+D03F - K.K. Slider (Dog)
+
+D040 - K.K. Slider (Dog)
+D041 - K.K. Slider (Dog)
+D042 - K.K. Slider (Dog)
+D043 - K.K. Slider (Dog)
+D044 - K.K. Slider (Dog)
+D045 - K.K. Slider (Dog)
+D046 - K.K. Slider (Dog)
+D047 - K.K. Slider (Dog)
+D048 - K.K. Slider (Dog)
+D049 - K.K. Slider (Dog)
+D04A - K.K. Slider (Dog)
+D04B - K.K. Slider (Dog)
+D04C - K.K. Slider (Dog)
+D04D - K.K. Slider (Dog)
+D04E - Copper (Dog - Tracksuit)
+D04F - K.K. Slider (Dog)
+
+D050 - K.K. Slider (Dog)
+D051 - K.K. Slider (Dog)
+D052 - K.K. Slider (Dog)
+D053 - K.K. Slider (Dog)
+D054 - K.K. Slider (Dog)
+D055 - K.K. Slider (Dog)
+D056 - K.K. Slider (Dog)
+D057 - K.K. Slider (Dog)
+D058 - K.K. Slider (Dog)
+D059 - K.K. Slider (Dog)
+D05A - K.K. Slider (Dog)
+D05B - K.K. Slider (Dog)
+D05C - K.K. Slider (Dog)
+D05D - K.K. Slider (Dog)
+D05E - K.K. Slider (Dog)
+D05F - K.K. Slider (Dog)
+
+D060 - K.K. Slider (Dog)
+D061 - K.K. Slider (Dog)
+D062 - K.K. Slider (Dog)
+D063 - K.K. Slider (Dog)
+D064 - Gulliver (Pelican)
+D065 - Mr. Resetti (Mole)
+D066 - K.K. Slider (Dog)
+D067 - Porter (Monkey)
+D068 - Mr. Resetti (Mole)
+D069 - Mr. Resetti (Mole)
+D06A - K.K. Slider (Dog)
+D06B - Mr. Resetti (Mole)
+D06C - Blazel (Squirrel - Beta)
+D06D - Blathers (Owl)
+D06E - Tortimer (Turtle)
+D06F - Wisp (Ghost)
+
+D070 - Mable (Hedgehog)
+D071 - Sable (Hedgehog)
+D072 - Kapp'n (Turtle)
+D073 - K.K. Slider (Dog)
+D074 - Tortimer (Turtle)
+D075 - Blanca (Cat)
+D076 - Blanca (Cat)
+D077 - K.K. Slider (Dog)
+D078 - Tortimer (Turtle)
+D079 - Jack (Spooky Spirit)
+D07A - Porter (Monkey)
+D07B - Gulliver (Pelican)
+D07C - Mr. Resetti (Mole)
+D07D - Mr. Resetti (Mole)
+D07E - Don Resetti (Mole)
+D07F - Tortimer (Turtle)
+
+D080 - Mr. Resetti (Mole)
+D081 - Mr. Resetti (Mole - Black Suit)
+D082 - K.K. Slider (Dog)
+D083 - K.K. Slider (Dog)
+D084 - K.K. Slider (Dog)
+D085 - K.K. Slider (Dog)
+D086 - K.K. Slider (Dog)
+D087 - Tortimer (Turtle)
+D088 - K.K. Slider (Dog)
+D089 - K.K. Slider (Dog)
+D08A - K.K. Slider (Dog)
+D08B - K.K. Slider (Dog)
+D08C - K.K. Slider (Dog)
+D08D - Franklin (Turkey)
+D08E - Farley (Well-Spirit - Invisible)
+D08F - K.K. Slider (Dog)
+
+
+Replace All Villager Models With Don Resetti Model [Ralf]
+GXAW-51MC-8PMCN
+79R3-1X4P-8PGM1
+F6FY-5B2H-VDDMC
+J8C5-9UZE-QZ2QY
+QQQ5-K1TH-968XC
+6N42-G2JT-NV1AF
+
+Replace Museum Owl Model With K.K. Slider Model [Ralf]
+QUB4-6H64-183FY
+79R3-1X4P-8PGM1
+R3UM-AWBH-J9EMR
+NDWY-J6BV-G60NQ
+D59E-KT6R-PR4KE
+96T3-EDH7-Y0RBP
+3WAB-MJ53-8RH9Z
+7XP8-W3V2-60ZG4
+1T0D-1HU8-H1WUG
+QQQ5-K1TH-968XC
+6N42-G2JT-NV1AF
+
+Random Villager Models [Ralf]
+X35Z-3PHE-XEP3B
+FV2H-V5EK-KTV8F
+TF93-RT3J-T5K5H
+VT9D-ZT85-J3YM8
+HP6F-X8PJ-6N72M
+QQQ5-K1TH-968XC
+6N42-G2JT-NV1AF

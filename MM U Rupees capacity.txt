@@ -1,0 +1,26 @@
+Majoras Mask U
+Rupee capacity
+
+C5836D 63 original 
+
+C5836F C8= 200 rupees modfied 270F at C5836E= 9999 rupees
+
+C58370 01F4= 500 Rupees modfied 7FFF= alot of Rupees
+
+Some random notes
+items
+
+C5834F 1E
+
+Prototype Debug Pal E
+
+DE943D 63
+
+DE943F C8
+
+DE9440- 01F4
+
+JPN
+C745CD 63
+C745CF C8
+C745D0 01F4

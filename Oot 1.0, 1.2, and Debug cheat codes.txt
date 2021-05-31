@@ -1,0 +1,115 @@
+Third Person Shooter
+
+Zelda 64 V1.0
+
+D138B90C 1440
+8138B90C 2400
+
+Zelda 64 V1.2
+
+D138C0CC 1440
+8138C0CC 2400
+
+Debug Rom:
+
+Third Person Shooter
+
+D13D50A0 1440
+813D50A0 2400
+
+Kill Most Enemies in 1 Hit
+
+Zelda 64 V1.0
+
+D00283AD 008E
+800283AD 0080
+
+Zelda 64 V1.2
+
+D00289ED 008E
+800289ED 0080
+
+No Beeping Noise
+
+Zelda 64 V1.0
+
+D1065B50 1420
+81065B50 1000
+
+Zelda 64 V1.2
+
+D1066210 1420
+81066210 1000
+
+Debug Rom:
+
+Kill Most Enemies in 1 Hit Debug
+
+D0035645 008E
+80035645 0080
+
+No Beeping Noise
+
+D1079D04 1420
+81079D04 1000
+
+Link's animations Speed
+
+Oot 1.0- 801DABF1 7777
+
+Oot 1.2- 801DB4B1 7777
+
+Debug Rom- 81224783 7777
+
+1.0 Oot
+Link's arms code
+
+801DAB7B 0002
+
+1.2 Oot
+801DB43B 0002
+
+MQ Debug Rom, 
+8122470A 0002
+
+0.9 Prerelease Oot
+200 difference
+Levitate
+D01C82B5 0020
+811DA890 40CB
+
+Run Fast with D pad up
+D01C82BA 0008
+811DB058 41C0
+
+1 hit kill cheat
+D0028385 008E
+80028385 0080
+
+MQ Debug
+
+actor debugger
+80211CE4 0001
+
+D down to run fast
+D01665C0 0004
+81224DE8 4200
+
+levitate
+D01665C1 0020
+81224610 4125
+
+Sun Song Effect
+D015FA83 0000
+D01665C0 0021
+8015FA83 0001
+
+Time Display
+81211268 0001
+
+Time Display off
+81211268 0000
+
+Manual jump
+D13DBFE8 1CC0
+813DBFE8 04C1

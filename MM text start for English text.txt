@@ -1,0 +1,18 @@
+1.0 U
+
+compressed
+9FDC80
+
+decompressed
+AD1000-B3A9E3 Length 699E4
+
+Decompressed
+Prototype Pal text start to end for English
+AB0000-B19A73 69A74
+
+Compressed
+Prototype Pal text start to end for English
+9CEF20- A3899F
+
+Gamecube on N64 for English for N64 mod
+A0C668- A763DF Length 69D78

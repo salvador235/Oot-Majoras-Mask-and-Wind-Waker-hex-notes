@@ -1,0 +1,10 @@
+Master Quest Fixed Targetable Navi Spots in Spirit Temple and Shadow Temple
+actor 37 Original Oot actor 15
+x 59
+y 1092
+z -1410
+
+Actor 19
+x -2724
+y -1293
+z -596

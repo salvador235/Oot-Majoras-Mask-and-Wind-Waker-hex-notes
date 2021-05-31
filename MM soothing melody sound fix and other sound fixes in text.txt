@@ -1,0 +1,35 @@
+1.0 U
+How infuriating sound fix for Goron
+AF545B
+3AE8 to 3AD0
+
+Smoothing melody sound fix for Goron
+1.0 U or original
+AF5724 3AE8 to 3AD0
+
+Gamecube on N64
+A30F50  3AE8 to 3AD0
+
+Pal Prototype
+AD4788- 3AD0
+
+
+Original sound for Deku Princess for Japan or Pal
+6934
+
+1.0 U
+AEF96A 6394 to 6934
+
+Pal
+ACE9CE 6934
+
+Monkey dumped in Hot Water sound restored for 1.0 U
+AEEBBC 2693 to 2963
+
+Pal Prototype
+ACDC20 2963
+
+A hacked MM game fix
+How infuriating sound fix for Goron
+AF54B3
+3AE8 to 3AD0

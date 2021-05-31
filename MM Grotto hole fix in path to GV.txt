@@ -1,0 +1,7 @@
+my fix
+Actor 2 Hole in Ground
+
+actor type 55
+X -294
+y 139
+Z 161

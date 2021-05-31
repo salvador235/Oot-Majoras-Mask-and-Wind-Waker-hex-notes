@@ -1,0 +1,2 @@
+This is my fixed scene hack for 1.0 U for Ocarina of Time. This one is normal link and he has his prerendered model from far away. In this I fixed alot of stuff. Like the door of time being in the correct spot, Jabu's belly cutscene area is fixed. Ice cavern cutscene loads all its rooms. And etc
+

@@ -1,0 +1,18 @@
+1 hit kills
+
+D00283AD 008E
+800283AD 0080
+
+Infinite Health
+8111A600 0140
+
+Run fast with D pad down
+D01C84B4 0004
+801DB258 0041
+
+Time flows fast
+8111B9F2 0101
+
+L button for health refill
+D01C84B5 0020
+8111B9F4 0101

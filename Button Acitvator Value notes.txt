@@ -1,0 +1,19 @@
+Ocarina of Time 3D
+Region-Free
+Button Activator Codes
+DD000000 0000XXXX
+(replace XXXX with one or more of the following values)
+
+0000 (Always on)
+0100 (R Button)
+0200 (L Button)
+0400 (X Button)
+0800 (Y Button)
+0001 (A Button)
+0002 (B Button)
+0004 (Select Button)
+0008 (Start Button)
+0010 (D-Pad Right)
+0020 (D-Pad Left)
+0040 (D-Pad Up)
+0080 (D-Pad Down)

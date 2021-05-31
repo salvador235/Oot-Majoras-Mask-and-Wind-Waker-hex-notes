@@ -1,0 +1,2 @@
+B35572 enemy death flash alpha 0050 to 0000
+D6D646 Deku nut flash alpha

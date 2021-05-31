@@ -1,0 +1,11 @@
+Screen Fix 1
+B129F7 02 to 03
+
+Screen Fix 2
+B15E80 0C 02 7E 32 to 00000000
+
+Faster Text
+B5005F 01 to 02
+
+Navi C up text more centered
+B582F7 F7 to F6

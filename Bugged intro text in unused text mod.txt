@@ -1,0 +1,20 @@
+In the vast, deep forest of Hyrule...<Delay:40><Pixels Right:22>Lo<R> boye I served as the
+<Pixels Right:51>guardian spirit...
+<Pixels Right:12>I am known as the Deku Tree...<Fade:70>
+
+In the vast, deep forest of Hyrule...<Delay:40><Pixels Right:22>Long have I served as the
+<Pixels Right:51>guardian spirit...
+<Pixels Right:12>I am known as the Deku Tree...<Fade:70>
+
+
+
+
+
+<Pixels Right:11>The children of the forest, the
+<Pixels Right:25>Kokiri, liv<R> boy with me.<Delay:60><Pixels Right:11>Each Kokiri has his or her own
+<Pixels Right:56>guardian fairy.<Fade:60>
+
+
+<Pixels Right:11>The children of the forest, the
+<Pixels Right:25>Kokiri, live here with me.<Delay:60><Pixels Right:11>Each Kokiri has his or her own
+<Pixels Right:56>guardian fairy.<Fade:60>

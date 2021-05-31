@@ -1,0 +1,12 @@
+Magic Mushroom Bottle Fix for Majora's Mask (No seahorse bottle)
+1.0 U decompressed
+CD7C48
+1D to 1E
+
+MM Prototype
+E7A818
+1D to 1E
+
+JPN 1.0 decompressed
+CF9350
+1D to 1E

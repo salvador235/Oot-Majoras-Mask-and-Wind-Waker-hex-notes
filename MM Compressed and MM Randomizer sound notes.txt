@@ -1,0 +1,23 @@
+1.0 U 9FDC80-compressed
+
+Compressed Goron sound fix
+A220DC 48E8 to 48DO 2445A
+A223A3 FFE8 to FFD0
+
+Pal
+9C4870- compressed
+
+9E8D31 48D0
+
+Randomizer
+How infurating sound fix for Darmani
+9D0AFF 3AE8 to 3AD0
+
+Smoothening Melody sound fix for Darmani
+9D0DC8 3AE8 to 3AD0
+
+Monkey Dumped in Hot Water sound fix
+9CA55C 2693 to 2963
+
+Deku Princess sound fix
+9CB30A 6394 to 6934

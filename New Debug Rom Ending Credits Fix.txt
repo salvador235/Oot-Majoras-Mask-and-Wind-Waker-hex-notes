@@ -1,0 +1,16 @@
+New Debug Credits Fix
+B34018 1521 new 1000
+
+Delay Screen Fix
+Master Quest
+B36B6B 02 to 03
+B3A994 0C030940 00000000
+
+New Debug
+B36B8B 02 to 03
+B3A9B4 0C030940 00000000
+
+New Debug Text Speed
+B80ACB 01 to 02
+
+

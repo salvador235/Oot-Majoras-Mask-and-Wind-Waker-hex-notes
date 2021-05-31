@@ -1,0 +1,13 @@
+Oot 0.9 Map Select
+B9FA90  B9FA93-BA065F
+
+BA082C-BA08FF Age Night Day and cutscenes
+
+Magic Bean Highlight
+BC7492- 01
+
+Magic Bean Usability
+BC74BC- 01
+
+Kakariko Object amount for cutscene stage 04
+2016EB9

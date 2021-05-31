@@ -1,0 +1,31 @@
+Oot 1.0 U Sort of prerelease hud in hex
+
+B58047 10 to 0E
+
+b5802b 14 to 12
+
+
+Optional Notes
+Sword icon B585C2
+
+Green Icon Hud (extra)
+B58049 0B to 09
+
+B5820F 14
+
+B5885B 14
+
+
+
+1000140015007A
+
+
+0E00140015007A
+
+380001FF
+
+1C76A3
+
+2BA
+
+B58B7F

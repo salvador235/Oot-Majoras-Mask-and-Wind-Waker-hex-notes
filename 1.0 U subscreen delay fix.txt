@@ -1,0 +1,9 @@
+What I need to do before sharing a rom ?
+Change the rom name, this fix:
+Subscreen delay fix 1.0
+00B12947 -> 03 original 02
+00B15DD0 -> 00000000 
+original 0C027C76
+
+rebuild DMA table and compress
+I need to do other things ? I haven't extended the ram, it seems to works fine without.

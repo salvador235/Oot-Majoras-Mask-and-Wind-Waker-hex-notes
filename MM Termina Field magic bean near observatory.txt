@@ -1,0 +1,13 @@
+actor 195
+var 506 
+
+191
+var 4305
+
+2AE
+var 205
+
+actor 1-4 
+232
+
+Var E05 E1D

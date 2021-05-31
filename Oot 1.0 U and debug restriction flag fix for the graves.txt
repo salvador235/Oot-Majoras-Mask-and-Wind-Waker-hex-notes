@@ -1,0 +1,7 @@
+1.0 U B6D314-B6D31F
+MQ Debug B9CA74-B9CA7F
+
+3F	00	00	D0	Grave (Redead)
+40	00	00	D0	Grave (Fairy's Fountain)
+41	00	00	D0	Royal Family's Tomb
+3C-D0

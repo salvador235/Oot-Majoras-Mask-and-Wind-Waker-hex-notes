@@ -1,0 +1,3 @@
+1FF Locked Door
+
+7F Opened door

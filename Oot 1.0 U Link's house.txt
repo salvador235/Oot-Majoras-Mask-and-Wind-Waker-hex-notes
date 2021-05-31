@@ -1,0 +1,18 @@
+255E089
+255E039 03 to 04
+
+MQ Debug
+Kokiri House 3
+Controls actors
+2E6A031 04 to ??
+
+354C031
+
+34DA029 01
+
+2E6A070
+
+Potion Shop actor 4 original coords
+0
+0
+0

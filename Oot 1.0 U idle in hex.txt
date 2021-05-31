@@ -1,0 +1,26 @@
+Oot 1.0 U decompressed cutscene idle animation replacement
+
+BEF5A6= 3468 idle cutscene with no shield out 
+Can be changed to 3240 so Link does his regular idle like in the beta.
+
+BEF5B2 3468
+BEF5B6 3468
+BEF5BA 3468
+
+BEF5AA 3438= idle cutscene with shield out
+can be changed to 3238 so Link does his regular idle like in the beta.
+
+BEF5AE 3438
+
+MQ Debug
+C22BD6= 3468 idle cutscene with no shield out
+Can be changed to 3240 so Link does his regular idle like in the beta.
+
+C22BE2 3468
+C22BE6 3468
+C22BEA 3468
+
+C22BDA= 3438 idle cutscene with shield out
+can be changed to 3238 so Link does his regular idle like in the beta.
+
+C22BDE 3438
