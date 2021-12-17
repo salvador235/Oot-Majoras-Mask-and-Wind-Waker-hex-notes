@@ -1,0 +1,30 @@
+Bomb Shop Lady or actor 236 Variables for 1st actor of her
+
+FF
+Spawns from South Clock Town
+
+1FF
+Spawns from behind the slide
+
+2FF
+Spawns near the guard or Termina Field (Final area one)
+
+3FF
+Spawns near the mailbox
+
+4FF
+Spawns sort of near the mailbox and follows Sakon's path of when he steals the bomb bag
+
+5FF (Unused setup 1 or Cutscene 00)
+Crashes
+
+6FF
+Crashes too
+
+Bomb Shop Lady or actor 236 Variables for 2nd actor of her
+
+7FFF (Final area one)
+She appears after Sakon gets away or if you get her bomb bag back, she will appear as well. Like after the area reloads.
+
+FFFF (Unused setup 1 or Cutscene 00)
+She doesn't appear at all after Sakon gets away or if you get her bomb bag back, she will not be there as well. Like after the area reloads.
