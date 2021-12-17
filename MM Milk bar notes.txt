@@ -1,5 +1,0 @@
-- N64 (decompressed Japanese v1.0): Go to address 0x20D6058 and write 012901AC
-
-- 3DS: Decompress the file /scenes/z2_milk_bar_0_info.zsi, go to address 0xB4D88 and write 2901AC01
-
-Check this link for a small tutorial on decompressing a MM3D scene/room: 
