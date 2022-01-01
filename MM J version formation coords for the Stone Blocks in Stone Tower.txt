@@ -1,0 +1,51 @@
+Actor 86
+x 164
+
+y -600
+
+z 1510
+
+CC38
+
+Actor 88
+x 4
+
+y -600
+
+z 1711
+
+CE3C
+
+Actor 90
+x -156
+
+y -600
+
+z 1512
+
+D040
+
+
+2C33000
+
+2BA95B0
+USA Actor 86
+02 45 00 A4 FD A8 06 B0 00 07 00 0F 00 7F CC 38
+
+JPN Coord for actor 86 in USA
+02 45 00 A4 FD A8 05 E6 00 07 00 0F 00 7F CC 38
+
+2BA9600
+USA Actor 91
+02 45 FF 64 FD A8 06 B2 00 07 00 0F 00 7F D0 40
+
+
+JPN Coord for actor 91 in USA
+02 45 FF 64 FD A8 05 E8 00 07 00 0F 00 7F D0 40
+
+J
+2C49DA6-?
+
+USA
+2BAADD6-?
+

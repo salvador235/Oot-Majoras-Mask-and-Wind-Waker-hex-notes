@@ -1,0 +1,45 @@
+Pirate's Fortress (Inside)
+
+JPN
+Scene 23C4000 to 23D8FFF
+
+Room 4
+23E7000 to 23FEFFF or 23FEC90
+
+USA
+Scene 2368000 to 237CFFF
+
+Room 4
+238B000 to 23A2FFF or 23A2960
+
+JPN
+2589 Vertices
+
+USA
+2573 Vertices
+
+02 37 D0 00 02 37 FF C0 02 38 00 00 02 38 4E 00 02 38 50 00 02 38 A4 80 02 38 B0 00 02 3A 29 60 02 3A 30 00 02 3A 61 60 02 3A 70 00 02 3B 6B 20 02 3B 70 00 02 3B AD 00 02 3B B0 00 02 3C CA 00 02 3C D0 00 02 3D 07 E0 02 3D 10 00 02 3D AD 30 02 3D B0 00 02 3E 5C 60 02 3E 60 00 02 3E FC 70 02 3F 00 00 02 3F D6 30 02 3F E0 00 02 40 21 F0 02 40 30 00 02 40 45 40
+
+Pirates Fortress Inside scene collision and textures
+237C650 end U
+
+23D8740 end J
+
+U testing for port
+2368000 237C740
+
+
+MM USA Vertices for that wall
+335
+352
+
+That other big wall
+400
+401
+
+236B380
+Make these 0 to remove that wall thats in the USA version
+
+236C86C-236C87B
+
+236C97C-236C98B
