@@ -317,7 +317,7 @@ Didn't do this for the hack but you can do 0x2122B71,21 to replace Jabu with a f
 (Fanmade) Gerudo Valley Link's spawnpoint present in CS 01 or Stage 3
 0x212E0D6,0D
 
-Lost Woods Octorock loaded in room 4 for Young Link. The 0x2150C95,07E1 makes it so the waterbox loads in all rooms as the Octorock would not load through the transitions if it wasn't.
+Lost Woods Octorock loaded in room 4 for Young Link. The 0x2150C95,07E1 makes it so the waterbox loads in all rooms as the Octorock would not load through the transitions if it wasn't. The 0C extends the object list for all rooms for Young Link so I could add the Octorock for him.
 0x2150C95,07E1
 0x2157031,0C
 0x215706F,07
@@ -344,7 +344,7 @@ Lost Woods Ground Business Scrub y coord fix in CS 00 or when you leave Kokiri F
 Lost Woods (Fanmade) In CS 00, changed the bean plant spot's switch flag from 04 to 1E. Not sure why I bothered though.
 0x21711F7,1E
 
-Lost Woods Octorock loaded in room 4 for Adult Link. I replaced the 1st object with Octorock or 0007 in the list for all rooms for this one as that object wasn't being used. The 0x2150C95,07E1 makes it so the waterbox loads in all rooms as the Octorock would not load through the transitions if it wasn't.
+Lost Woods Octorock loaded in room 4 for Adult Link. I replaced the 1st object with Octorock or 0007 in the list for all rooms for this one as that object wasn't being used. The 0x2150C95,07E1 makes it so the waterbox loads in all rooms as the Octorock would not load through the transitions if it wasn't. The 0C extends the object list for all rooms for Young Link so I could add the Octorock for him.
 0x2178031,0C
 0x217806F,07
 0x2178141,07
@@ -369,7 +369,7 @@ Desert Colossus CS 00 or Stage 2. 16F object loaded for enabling the Nayru Fount
 Desert Colossus CS 01 or Stage 3. 16F object loaded for enabling the Nayru Fountain Bombable Wall and the Oasis actor.
 0x21A0832,016F
 
-Gerudo's Fortress For unloaded Signposts loaded for Child Link and Adult Link's Archery Minigame for room 1
+Gerudo's Fortress For unloaded Signposts loaded for Child Link and Adult Link's Archery Minigame for room 1. (The sign actor is not in this room for the Archery Minigame but you need it to make the object lists be the same.)
 0x21BD066,012F
 0x21BD7D2,012F
 
@@ -392,7 +392,7 @@ Gerudo's Fortress (Fanmade sort of) Changed the coords of Adult Link's Signpost 
 0x21CF40F,47
 0x21CF413,9F
 
-Gerudo's Fortress Signpost loaded for Adult Link's Archery Minigame or CS 00 for room 2
+Gerudo's Fortress Signpost loaded for Adult Link's Archery Minigame or CS 00 for room 2. (The sign actor is in this room for the Archery Minigame.)
 0x21CF542,012F
 
 Gerudo's Fortress (Fanmade sort of) Changed the coords of Adult Link's Signpost for CS 00 for the Archery Minigame so that its moved farther back as he knocks it over if the coords are not changed. This is for room 2
@@ -422,7 +422,7 @@ Gerudo's Fortress Gerudo Training Area Gate, Gerudo Fortress Wooden Gate, and Cr
 Death Mountain (Fanmade) (Owl's switch flag is 3F so she can't get set by a permanent flag. (Only did this incase I made a switch dungeons hack for this area and he got set. As if he's set, he won't appear again.)
 0x223C0CB,3F
 
-Death Mountain (Fanmade) Was going to enable or load the Giant Boulder with object C2 but it looked weird in CS 01 or Stage 3 so I just added the object. But you could enable the boulder with this 0x223C973,C2 if you like.
+Death Mountain (Not really Fanmade but I didn't like it.) Was going to enable or load the Giant Boulder with object C2 but it looked weird in CS 01 or Stage 3 so I just added the object. But you could enable the boulder with this 0x223C973,C2 if you like.
 0x223C973,C2
 
 Death Mountain (Fanmade but I feel like the Giant Boulder should be replaced here as it just doesn't fit) For CS 01 or Stage 3, I replaced the Boulder actor and made the coords the same as the heart piece one in the normal areas. Then I made it a purple rupee. You could maybe do 0x223C9EE,1E06 if you wanted so its the same variable as the regular area's heart piece though. But I didn't and made it a different flag. I rather go with the 1E06 though now that I think of it.
@@ -452,7 +452,7 @@ Goron City Bombiwas and Bombable Walls loaded for room 1 of CS 00
 0x227C775,63
 0x227C77E,018A
 
-(Fanmade) Goron City Chest Flags in room 1 of CS 00 changed or fixed so you can open these as well after opening the ones in the normal stages. In the final, the chest flags were all the same for all stages.
+(Fanmade) Goron City Chest Flags in room 1 of CS 00 changed or fixed so you can open these as well after opening the ones in the normal stages. In the final, the chest flags were all the same for those 2 stages.
 0x227CCFF,23
 0x227CD0F,24
 
@@ -473,7 +473,7 @@ Goron City Bombiwas and Bombable Walls loaded for room 4 of CS 00
 0x22A8705,63
 0x22A870E,018A
 
-(Fanmade) Goron City Chest Flag in room 4 of CS 00 was changed or fixed so you can open this one as well after opening the ones in the normal stages.
+(Fanmade) Goron City Chest Flag in room 4 of CS 00 was changed or fixed so you can open this one as well after opening the ones in the normal stages. I made a mistake when I edited this actor and changed the chest from bombs to bombchus. So do 0x22A87DF,25 for bombs instead of 0x22A87DF,65.
 0x22A87DF,65
 
 Fire Temple Navi Information spot fix in Fire Temple room 14. Y coord was moved lower I think so it can be triggered. And then the unknown 16 or 0x236C05F,16 makes it so after you hit the top part of the megaton statue or set switch flag 15, the navi information spot actor will disappear.
@@ -545,7 +545,7 @@ Water Temple Moving the misplaced pots inbounds in room 11
 0x2718067,19FFB8
 0x271806C,0A44
 
-Jabu-Jabu's Belly Made Waterbox 3 really long and big so in CS 00, the Octorocks in room 13 can load but unfortunately, they are underneath the ground as Waterbox 3 is in room 4 and its lower for that room. I could not figure out if I could of added a 9th waterbox to this scene
+Jabu-Jabu's Belly Made Waterbox 3 really long and big so in CS 00, the Octorocks in room 13 can load but unfortunately, they are underneath the ground as Waterbox 3 is in room 4 and its lower for that room. I could not figure out if I could of added a 9th waterbox to this scene.
 0x2750FF4,FC04
 0x2750FF8,E88D05A00CA8
 0x2751001,07E0
