@@ -28,7 +28,7 @@ Navi word in the C up is centered
 (Fanmade) Back Alley (Day) Restricted using the B button for the added cucco I add there later so you can't attack it and cause a crash.
 0x0B9CAC9,10
 
-English Map Select
+English Map Select (I believe I fixed the spelling of Dodongo's Cavern areas by adding the 's after Dodongo.)
 0x0BD1537,20313A4669656C640000
 0x0BD1544,323A4B616B6172696B6F
 0x0BD154F,20333A477261766579617264
