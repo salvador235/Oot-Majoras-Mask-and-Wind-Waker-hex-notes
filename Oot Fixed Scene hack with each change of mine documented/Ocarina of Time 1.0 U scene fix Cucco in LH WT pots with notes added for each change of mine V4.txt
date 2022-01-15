@@ -473,7 +473,7 @@ Goron City Bombiwas and Bombable Walls loaded for room 4 of CS 00
 0x22A8705,63
 0x22A870E,018A
 
-(Fanmade) Goron City Chest Flag in room 4 of CS 00 was changed or fixed so you can open this one as well after opening the ones in the normal stages. I made a mistake when I edited this actor and changed the chest from bombs to bombchus. So do 0x22A87DF,25 for bombs instead of 0x22A87DF,65.
+(Fanmade) Goron City Chest Flag in room 4 of CS 00 was changed or fixed so you can open this one as well after opening the ones in the normal stages. I made a mistake when I edited this actor and changed the chest from bombs to bombchus. Or I did it on purpose as getting bombs again would be boring. So do 0x22A87DF,25 for bombs instead of 0x22A87DF,65.
 0x22A87DF,65
 
 Fire Temple Navi Information spot fix in Fire Temple room 14. Y coord was moved lower I think so it can be triggered. And then the unknown 16 or 0x236C05F,16 makes it so after you hit the top part of the megaton statue or set switch flag 15, the navi information spot actor will disappear.
@@ -728,7 +728,7 @@ Ice Cavern CS 00 or stage 1 Bombchu Chest loaded in room 4
 0x2ED0072,01
 0x2ED007C,C0
 
-(Fanmade) Spirit Temple (Boss) Scene changed from Field to Dungeon for the doors to have the dungeon skin. And variables changed to 3F so they load in Stage 1 or CS 00 and Stage 2 or CS 01. The original or variable 17F doors would not appear. And Rotated Boss door so Link can open it to leave.
+(Fanmade) Spirit Temple (Boss) Scene changed from Field to Dungeon for the doors to have the dungeon skin. And variables changed to 3F so they load in Stage 1 or CS 00 and Stage 2 or CS 01. The original or variable 17F doors would not appear. And Rotated Boss door so Link can open it to leave. I believe you don't have to do 0x2F5DBBF,57 though in CS 02 or Stage 3 as that changes the Boss door's switch flag from 154 to 157. I just changed it to 157 as I wanted to use another switch flag.
 0x2F5703F,03
 0x2F570B0,00
 0x2F570B2,01
