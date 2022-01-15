@@ -701,7 +701,7 @@ Kokiri Forest "Sword Area" transitions (Fanmade. Don't include these, as I belie
 Kokiri Forest Link's spawnpoint present in CS 06 or in stage 9 I think (Fanmade)
 0x289AB16,0D
 
-Kokiri "Forest Sword" Area transitions fix (Forgot to fix Stage 4 or CS 01's though.) Continued
+Kokiri "Forest Sword" Area transitions fix. Continued
 0x289AB18,00
 0x289ABF8,00
 0x289ACD8,00
@@ -914,7 +914,7 @@ Item Testing Room Transitions fixed for crawlspace area so it loads.
 0x2AF60BA,00
 0x2AF60C8,03
 
-Item Testing Room Grass Clump loads in room 2. (Had to replace the useless object 81 or Large noisy stone object with 12B or Grass Clump for all rooms and for the Flying tiles, I replaced object 85 or Metal Spike Trap object with 5F or the Flying tiles.)
+Item Testing Room Grass Clump loads in room 2. (Had to replace the useless object 81 or Large noisy stone object with 12B or Grass Clump for all rooms and for the Flying tiles, I replaced object 85 or Metal Spike Trap object with 5F or the Flying tiles in room 3.)
 0x2AFB044,012B
 0x2B00044,012B
 0x2B03043,5F012B
