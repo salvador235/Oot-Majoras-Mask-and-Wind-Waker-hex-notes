@@ -644,11 +644,11 @@ Hyrule Field Coords for Circle of Bushes and Shrubs fixed even in CS areas. And 
 0x2802EB5,5B
 0x2802EC4,FF1A
 
-Kakariko Village Death Mountain Trail Gate loaded in CS 00 (Forgot to fix this in my normal Link's hat being longer versions... Oops)
+Kakariko Village Death Mountain Trail Gate loaded in CS 00 (Forgot to fix this in my normal Link's hat being longer versions for MQ Debug... Oops)
 0x2834FE9,0A
 0x2835012,0181
 
-Kakariko Village Death Mountain Trail Gate loaded in CS 01 by replacing the useless Soldier object or 97. (In 1.0 U, the Soldier and the other npc actors are in this cutscene but not in MQ.) (Forgot to fix this in my normal Link's hat being longer versions... Oops)
+Kakariko Village Death Mountain Trail Gate loaded in CS 01 by replacing the useless Soldier object or 97. (In 1.0 U, the Soldier and the other npc actors are in this cutscene but not in MQ.) (Forgot to fix this in my normal Link's hat being longer versions for MQ Debug... Oops)
 0x2835232,0181
 
 Graveyard Transitions Fixed for CS 00 and 01
