@@ -210,7 +210,7 @@ Inside the Great Deku Tree Grass clumps coords fixed so they are not underneath 
 0x202D04B,A4012B00B7015C
 0x2032044,012B00B7015C
 
-Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clump actors load in those 2 rooms. (I could of maybe added a object since there was space for a 16th object but I didn't know at the time. And those 15 object list rooms don't use a Armos actor in final MQ.)
+Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clump actors load in those 2 rooms part 1. (I could of maybe added a object since there was space for a 16th object but I didn't know at the time. And those 15 object list rooms don't use a Armos actor in final MQ.)
 0x2050048,012B
 
 (Fanmade) Dodongo's Cavern 3 useless invisible collectible actors in room 1 near the entrance of DC replaced with 1 torch that sets switch flag 18 and 2 large crates.
@@ -224,7 +224,7 @@ Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clu
 0x2050126,FBC7
 0x205012E,FFFF
 
-Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clump actors load in those 2 rooms. (I could of maybe added a object since there was space for a 16th object but I didn't know at the time. And those 15 object list rooms don't use a Armos actor in final MQ.)
+Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clump actors load in those 2 rooms part 2. (I could of maybe added a object since there was space for a 16th object but I didn't know at the time. And those 15 object list rooms don't use a Armos actor in final MQ.)
 0x206C048,012B
 
 (Fanmade) Dodongo's Cavern 4 useless invisible collectible actors in room 8 replaced with 2 baby dodongos, 1 grass clump, and 1 pot.
@@ -243,7 +243,7 @@ Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clu
 0x209F0AD,10F623
 0x209F0B6,7004
 
-Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clump actors load in those 2 rooms. (I could of maybe added a object since there was space for a 16th object but I didn't know at the time. And those 15 object list rooms don't use a Armos actor in final MQ.)
+Dodongo's Cavern Armos object swapped with Grass clump object so the 2 Grass clump actors load in those 2 rooms part 3. (I could of maybe added a object since there was space for a 16th object but I didn't know at the time. And those 15 object list rooms don't use a Armos actor in final MQ.)
 0x20B1048,012B
 0x20BD048,012B
 0x20C8048,012B
