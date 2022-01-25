@@ -936,6 +936,7 @@ Temple of Time Door of Time coord fix so its -4 and you can't do DoT skip.
 0x2B4F902,FFFC
 
 Dark Link Testing Area or Sutaru room. Load all 5 actors in this room. I replaced a useless object 98 or Redead and Gibdo object with the Stalfos object or 32. The final Debug versions of the game only loads 1 actor or Dark Link. And I had to change the Bubble's variable from 5FB to FFFF so the area doesn't crash. FFFF is the Blue Bubble. Unsure why the game crashes with the original 5FB though but it could be path related. You can also maybe change it to 0x2B5806E,04FC to make it a small Green Bubble but I never tested it.
+
 0x2B58031,05
 0x2B58047,32
 0x2B5806E,FFFF
