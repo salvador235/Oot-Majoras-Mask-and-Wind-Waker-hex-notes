@@ -17,6 +17,7 @@ Delay Inventory Screen Fix part 2
 
 Text Speed for making my hack double speed. Original value was 01
 0x0B5006F,02
+
 Navi word in the C up is centered
 0x0B582DF,F6
 
