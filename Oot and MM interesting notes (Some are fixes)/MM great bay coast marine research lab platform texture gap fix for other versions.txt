@@ -1,0 +1,32 @@
+Original values for the offsets
+07,07,67,67
+
+MM 1.0 U (fixed by Linkz) The rest were found or ported by me.
+0x26F0BC9,0F
+0x26F0BD9,0F
+0x26F0BE9,5F
+0x26F0BF9,5F
+
+MM Pal 1.1 Debug
+0x291EBC9,0F
+0x291EBD9,0F
+0x291EBE9,5F
+0x291EBF9,5F
+
+MM Pal 1.1
+0x2859BC9,0F
+0x2859BD9,0F
+0x2859BE9,5F
+0x2859BF9,5F
+
+MM USA (Demo)
+0x26FDBC9,0F
+0x26FDBD9,0F
+0x26FDBE9,5F
+0x26FDBF9,5F
+
+MM Gamecube Edition (Unsure if this is right as it could be decompressed inproperly.)
+0x26E0BC9,0F
+0x26E0BD9,0F
+0x26E0BE9,5F
+0x26E0BF9,5F
