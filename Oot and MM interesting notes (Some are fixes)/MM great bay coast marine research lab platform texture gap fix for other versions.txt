@@ -1,3 +1,5 @@
+This fix is for the 2 gaps underneath the platform.
+
 Original values for the offsets
 07,07,67,67
 
