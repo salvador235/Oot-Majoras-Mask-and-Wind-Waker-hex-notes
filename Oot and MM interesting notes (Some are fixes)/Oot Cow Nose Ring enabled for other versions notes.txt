@@ -2,29 +2,29 @@ Original value is ACC0
 
 Oot 1.0 U (Found by ShadowOne333 for this one)
 
-EF3E68,0000
+0x0EF3E68,0000
 
 Oot 0.9
 
-EF3778,0000
+0x0EF3778,0000
 
 Oot 1.2 U
-EF44B8,0000
+0x0EF44B8,0000
 
 Oot MQ Debug
-D96BB8,0000
+0x0D96BB8,0000
 
 Oot Gamecube Debug or Oot D
-D96C58,0000
+0x0D96C58,0000
 
 Oot Pal 1.1
-EF4558,0000
+0x0EF4558,0000
 
 Oot MQ U (GC)
-D3F338,0000
+0x0D3F338,0000
 
 Oot Toki no Ocarina Zelda Collection Version J (GC)
-D3F3C8,0000
+0x0D3F3C8,0000
 
 Oot U (GC)
-D3F3D8,0000
+0x0D3F3D8,0000

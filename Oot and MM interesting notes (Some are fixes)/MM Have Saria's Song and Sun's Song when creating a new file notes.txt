@@ -1,21 +1,21 @@
 MM 1.0 U (From Rando for this one)
-C5CE71,0208
+0x0C5CE71,0208
 
 MM JPN 1.0
-C78F09,0208
+0x0C78F09,0208
 
 MM Pal 1.1 Debug
-DEEBC1,0208
+0x0DEEBC1,0208
 
 MM Pal 1.1
-DABE11,0208
+0x0DABE11,0208
 
 MM JPN 1.1 or Rev A
-C791D9,0208
+0x0C791D9,0208
 
 MM USA (Demo) (Theres's 2 areas for songs and stuff in this version?) Unsure if this is correct
-C5D071,0208
-C902D1,0208
+0x0C5D071,0208
+0x0C902D1,0208
 
 
 

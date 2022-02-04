@@ -1,25 +1,25 @@
-This is my fix so its on the ground, I had to move it on flat land as I believe it would be on the side of the ground if you just lower it and not move it in another direction. Original coords are FF 49 03 A1 00 A2 for it.
+This is my fix so its on the ground, I had to move it on flat land as I believe it would be on the side of the ground if you just lower it and not move it in another direction. Original coords are FF4903A100A2 for it.
 
 MM 1.0 U
-2C2306A,FEDA008B
-2C2306F,A1
+0x2C2306A,FEDA008B
+0x2C2306F,A1
 
 MM JPN 1.0
-2CC206A,FEDA008B
-2CC206F,A1
+0x2CC206A,FEDA008B
+0x2CC206F,A1
 
 MM Pal 1.1 Debug
-2E5006A,FEDA008B
-2E5006F,A1
+0x2E5006A,FEDA008B
+0x2E5006F,A1
 
 MM Pal 1.1
-2D8B06A,FEDA008B
-2D8B06F,A1
+0x2D8B06A,FEDA008B
+0x2D8B06F,A1
 
 MM JPN 1.1 or Rev A
-2CC306A,FEDA008B
-2CC306F,A1
+0x2CC306A,FEDA008B
+0x2CC306F,A1
 
 MM USA (Demo)
-2C3006A,FEDA008B
-2C3006F,A1
+0x2C3006A,FEDA008B
+0x2C3006F,A1

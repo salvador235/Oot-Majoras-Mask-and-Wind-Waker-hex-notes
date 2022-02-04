@@ -1,13 +1,13 @@
 Original values for 1.0 U and 0.9 for it are A5 0E 0E F2. The other versions for the original values are A5 0D 0E F2 except for the Debug ones. Also, I haven't tested ingame with these changes.
 
 Oot 1.0 U (From Rando for this one) The rest I found myself.
-AE72CC,00000000
+0x0AE72CC,00000000
 
 Oot 0.9
-AE726C,00000000
+0x0AE726C,00000000
 
 Oot 1.2 U
-AE7314,00000000
+0x0AE7314,00000000
 
 Oot MQ Debug
 ?
@@ -16,13 +16,13 @@ Oot Gamecube Debug or Oot D
 ?
 
 Oot Pal 1.1
-AE9284,00000000
+0x0AE9284,00000000
 
 Oot MQ U (GC)
-AE5FBC,00000000
+0x0AE5FBC,00000000
 
 Oot Toki no Ocarina Zelda Collection Version J (GC)
-AE5FBC,00000000
+0x0AE5FBC,00000000
 
 Oot U (GC)
-AE5FBC,00000000
+0x0AE5FBC,00000000

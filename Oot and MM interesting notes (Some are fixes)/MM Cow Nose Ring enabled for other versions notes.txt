@@ -1,23 +1,23 @@
 1st address is for all cows. Second address is for the alien cutscene one in Romani Ranch. Original values for them are ACC0
 
 MM 1.0 U (by ShadowOne333) The rest were found by me.
-E10270,0000
-107F5C4,0000
+0x0E10270,0000
+0x107F5C4,0000
 
 MM JPN 1.0
-E33FB0,0000
+0x0E33FB0,0000
 
 MM Pal 1.1 Debug
-FBECA0,0000
-1274258,0000
+0x0FBECA0,0000
+0x1274258,0000
 
 MM Pal 1.1
-F41400,0000
-11B07B4,0000
+0x0F41400,0000
+0x11B07B4,0000
 
 MM JPN 1.1 or Rev A
-E343B0,0000
+0x0E343B0,0000
 
 MM USA (Demo)
-E11C00,0000
-1080BA4,0000
+0x0E11C00,0000
+0x1080BA4,0000

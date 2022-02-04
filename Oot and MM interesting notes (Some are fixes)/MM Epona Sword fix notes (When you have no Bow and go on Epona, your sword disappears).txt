@@ -1,18 +1,18 @@
 MM 1.0 U (From Rando for this one)
-BA885C,2418
-BA885F,01
+0x0BA885C,2418
+0x0BA885F,01
 
 MM JPN 1.0
 The value can maybe be around BCB818 but unsure.
 ?
 
 MM Pal 1.1 Debug
-D11970,2418
-D11973,01
+0x0D11970,2418
+0x0D11973,01
 
 MM Pal 1.1
-CF6238,2418
-CF623B,01
+0x0CF6238,2418
+0x0CF623B,01
 
 MM JPN 1.1 or Rev A
 ?
