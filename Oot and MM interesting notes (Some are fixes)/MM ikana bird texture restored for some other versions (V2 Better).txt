@@ -1,0 +1,24 @@
+Original value for MM 1.0 U, MM Pal 1.1 Debug, MM Pal 1.1, and MM USA (Demo) is 011D00000000. MM JPN 1.0 and MM JPN 1.1 or Rev A is 011540000000. MM Gamecube Editon is 011C18000000 maybe since it could be decompressed inproperly.
+
+MM 1.0 U (fixed by Linkz) The rest were found or ported by me.
+0x2055505,023EE003011D
+
+MM JPN 1.0 (added 6310 to 023EE0 to find the 02A1F0 for JPN.)
+0x205D505,02A1F003011540
+
+MM Pal 1.1 Debug
+0x2283505,023EE003011D
+
+These are untested below but are probably correct.
+
+MM Pal 1.1
+0x21BE505,023EE003011D
+
+MM JPN 1.1 or Rev A (added 6310 to 023EE0 to find the 02A1F0 for JPN.)
+0x205E505,02A1F003011540
+
+MM USA (Demo)
+0x2062505,023EE003011D
+
+MM Gamecube Edition (Unsure if this is right as it could be decompressed inproperly.) (Minus 130 from 023EE0 to find the 023DB0 for Gamecube.)
+0x2045505,023DB003011C18
