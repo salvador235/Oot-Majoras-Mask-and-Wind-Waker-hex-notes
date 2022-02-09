@@ -1,6 +1,6 @@
 Original value is 41
 
-MM 1.0 U
+MM 1.0 U (From Redux)
 0x0BA76D1,00
 
 MM JPN 1.0
