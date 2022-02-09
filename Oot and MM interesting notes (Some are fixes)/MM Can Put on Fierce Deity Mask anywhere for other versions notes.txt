@@ -1,0 +1,22 @@
+Original value is 41
+
+MM 1.0 U
+0x0BA76D1,00
+
+MM JPN 1.0
+0x0BCA6E5,00
+
+MM Pal 1.1 Debug
+0x0D107C9,00
+
+MM Pal 1.1
+0x0CF50AD,00
+
+MM JPN 1.1 or Rev A
+0x0BCA7E5,00
+
+MM USA (Demo)
+0x0BA8669,00
+
+MM Gamecube Edition (Unsure if this is right as it could be decompressed inproperly.)
+0x0BB6201,00
