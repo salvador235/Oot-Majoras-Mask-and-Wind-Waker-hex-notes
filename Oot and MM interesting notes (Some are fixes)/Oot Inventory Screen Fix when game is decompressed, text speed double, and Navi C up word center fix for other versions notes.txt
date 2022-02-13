@@ -1,0 +1,105 @@
+Inventory Screen Fix when game is decompressed. 1st address fixes the Inventory Screen when decompressed. The second address just makes it open faster I think. I know second address makes it open faster when decompressed but I'm unsure what it does when compressed though. I know the Debug versions of Oot need the fix since without it, it takes a long time for the game to open or could crash the game.
+
+Oot 1.0 U
+0x0B12947,03
+0x0B15DD0,00000000
+
+Oot 0.9
+0x0B127F7,03
+0x0B15C80,00000000
+
+Oot 1.2 U
+0x0B129F7,03
+0x0B15E80,00000000
+
+Oot MQ Debug
+0x0B36B6B,03
+0x0B3A994,00000000
+
+Oot Gamecube Debug or Oot D
+0x0B36B8B,03
+0x0B3A9B4,00000000
+
+Oot Pal 1.1
+0x0B14A57,03
+0x0B17F20,00000000
+
+The rest of these for the Inventory Screen Fix are untested down below.
+
+Oot MQ U (GC)
+0x0B117C7,03
+0x0B14A64,00000000
+
+Oot Toki no Ocarina Zelda Collection Version J (GC)
+0x0B117E7,03
+0x0B14A84,00000000
+
+Oot U (GC)
+0x0B117E7,03
+0x0B14A84,00000000
+
+Address that controls how fast text goes. I made the Text Speed Double. Original value was 01.
+
+Oot 1.0 U
+0x0B5006F,02
+
+Oot 0.9
+0x0B4FE5F,02
+
+Oot 1.2 U
+0x0B5005F,02
+
+Oot MQ Debug
+0x0B80AAB,02
+
+Oot Gamecube Debug or Oot D
+0x0B80ACB,02
+
+Oot Pal 1.1
+0x0B50CF7,02
+
+Oot MQ U (GC)
+0x0B4FB77,02
+
+Oot Toki no Ocarina Zelda Collection Version J (GC)
+0x0B4FB97,02
+
+Oot U (GC)
+0x0B4FB97,02
+
+Navi word in the C up is centered (fix)
+
+Oot 1.0 U
+0x0B582DF,F6
+
+Oot 0.9
+0x0B580CF,F6
+
+Oot 1.2 U
+0x0B582F7,F6
+
+Oot MQ Debug
+0x0B884E3,F6
+
+Oot Gamecube Debug or Oot D
+0x0B88503,F6
+
+Oot Pal 1.1
+0x0B57AF7,F6
+
+Oot MQ U (GC)
+0x0B57D1B,F6
+
+Oot Toki no Ocarina Zelda Collection Version J (GC)
+0x0B57D3B,F6
+
+Oot U (GC)
+0x0B57D3B,F6
+
+Extras. A fix for the Ending Credits of the Debug versions of Oot so it doesn't crash.
+
+Oot MQ Debug
+0x0B33FF8,1000
+
+Oot Gamecube Debug or Oot D
+0x0B34018,1000
