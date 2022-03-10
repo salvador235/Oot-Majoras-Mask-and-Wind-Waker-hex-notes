@@ -374,7 +374,7 @@ Water Temple Hookshot Targets on collision that are invisible can be hookshotted
 0x23D2043,A8
 0x23D2045,85013B013A
 
-(Fanmade) Spirit Temple object lists changed so some actors load between rooms/doors
+(Fanmade) Spirit Temple object lists changed so some actors load between rooms/doors part 1
 0x241B046,000E012A
 0x2423046,012A
 0x2423049,0E00B0
@@ -383,9 +383,13 @@ Water Temple Hookshot Targets on collision that are invisible can be hookshotted
 0x24B8046,012A
 0x24B8049,0E00B0
 0x24B804D,A4
+
+(Fanmade) Spirit Temple Replaced useless invisible collectible in room 26 with a Rusted Switch that is moved underneath a crate. (Does nothing though when set.)
 0x24B80DD,2A0111
 0x24B80E1,4DFB8E
 0x24B80EA,2909
+
+(Fanmade) Spirit Temple object lists changed so some actors load between rooms/doors part 2
 0x24CE046,012A
 0x24CE049,0E
 0x24CE04B,5D001B
