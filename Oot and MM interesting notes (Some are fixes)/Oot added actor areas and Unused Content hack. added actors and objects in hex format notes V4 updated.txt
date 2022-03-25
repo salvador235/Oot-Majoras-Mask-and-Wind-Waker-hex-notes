@@ -8,11 +8,11 @@ Kakariko Village Child Link. Added actors (Stage 0 and Stage 1) In beta videos o
 
 01 51 FA 7F 00 6F 02 4B 00 00 00 00 00 00 FF 02 01 51 02 84 00 8A 05 B9 00 00 00 00 00 00 FF 02 01 51 FF 56 01 90 FB 60 00 00 00 00 00 00 FF 01 01 51 FD DC 00 3A 01 95 00 00 00 00 00 00 FF 00 00 77 FD E4 00 00 01 04 00 00 00 00 00 00 02 05 00 77 00 3C 00 00 02 94 00 00 C0 00 00 00 02 05 00 20 FD DC 00 00 01 73 00 00 00 00 00 00 00 00 00 20 FD BF 00 00 01 9B 00 00 00 00 00 00 00 00 00 20 FE 0C 00 00 01 C3 00 00 00 00 00 00 00 00 00 20 FE 22 00 00 01 91 00 00 00 00 00 00 00 00 00 20 FD B9 00 00 01 6E 00 00 00 00 00 00 00 00 00 20 FD DC 00 00 01 BB 00 00 00 00 00 00 00 00 00 20 FF 7B 01 90 FB 60 00 00 00 00 00 00 00 00
 
-If you want the butterflies which I'm unsure if they were there in that beta footage of Kakariko Village but butterflies were in Kak in Spaceworld. Could make the game use more ram though. (Stage 0 and Stage 1 and same as Adult for Stage 2 & 3 if you use it.)
+If you want the butterflies which I'm unsure if they were there in that beta footage of Kakariko Village but butterflies were in Kak in Spaceworld. Could make the game use more ram though. I had a problem in the morning as Child Link where if I attack the Cuccos and get them agressive, when I would play a warp song, it would skip the warp animation part. I forget if that would only happen if I get them agressive and then throw a bunch of bombs or bombchus or if it happens without throwing bombs or bombchus. (Stage 0 and Stage 1 and same as Adult for Stage 2 & 3 if you use it.)
 
 00 1E 03 35 00 85 05 C7 00 00 00 00 00 00 FF FF 00 1E 03 2E 00 85 05 AC 00 00 00 00 00 00 FF FF 00 1E 02 F8 00 85 05 BA 00 00 00 00 00 00 FF FF 00 1E 03 3F 00 85 05 EB 00 00 00 00 00 00 FF FF 00 1E 03 48 00 85 05 AC 00 00 00 00 00 00 FF FF 00 1E 03 15 00 85 05 AC 00 00 00 00 00 00 FF FF 00 1E 03 21 00 85 05 EC 00 00 00 00 00 00 FF FF 00 1E 03 0D 00 85 05 D6 00 00 00 00 00 00 FF FF 00 1E 03 59 00 85 05 CA 00 00 00 00 00 00 FF FF
 
-Bug and Butterfly actors I wanted to add in kak but couldn't because of ram issues with stuff like the cuccos. (Stage 0 and Stage 1 and same as Adult for Stage 2 & 3 if you use it.) 1st half was used for Adult Link's area in my mod but not Child Link's. I guess I did that as I didn't have any ram issues. But it ain't the same actors so it could be bad using it.
+Bug and Butterfly actors I wanted to add in kak but couldn't because of ram issues with stuff like the cuccos as Child Link in the morning. (Stage 0 and Stage 1 and same as Adult for Stage 2 & 3 if you use it.) 1st half was used for Adult Link's area in my mod but not Child Link's. I guess I did that as I didn't have any ram issues. But it ain't the same actors so it could be bad using it.
 
 00 20 FF 76 01 90 FB 26 00 00 00 00 00 00 00 00 00 20 FF 5B 01 90 FB 17 00 00 00 00 00 00 00 00 00 20 FF 41 01 90 FB 40 00 00 00 00 00 00 00 00 00 20 FF 3D 01 90 FB 23 00 00 00 00 00 00 00 00 00 20 FF 56 01 90 FB 7A 00 00 00 00 00 00 00 00 00 1E 03 2A 00 8F FE FE 00 00 00 00 00 00 FF FF
 
@@ -114,7 +114,7 @@ Sacred Forest Meadow Adult Link or Stage 1. Added unused Sign or Gameplay Keep s
 
 00 39 FF 3B 01 E0 F4 90 00 00 00 00 00 00 13 09 00 77 FF 42 01 E0 F7 04 00 00 56 6B 00 00 02 05 00 77 01 36 01 E0 F7 04 00 00 AA AB 00 00 02 05 01 27 00 D2 01 E0 F7 04 00 00 AA AB 00 00 80 0F 00 55 00 87 00 78 00 33 00 00 90 00 00 00 00 00 00 55 FF A9 00 78 05 38 00 00 80 00 00 00 00 00 00 55 FF 31 00 78 02 E2 00 00 70 00 00 00 00 00 00 55 FE C2 00 78 05 08 00 00 80 00 00 00 00 00 00 55 00 CE 00 78 01 B0 00 00 80 00 00 00 00 00 00 55 FE D7 00 78 04 0E 00 00 80 00 00 00 00 00 00 55 FF DB 00 78 02 E2 00 00 80 00 00 00 00 00 00 55 00 E5 00 78 04 08 00 00 80 00 00 00 00 00 00 55 00 EE 00 78 02 EE 00 00 80 00 00 00 00 00 00 55 FF 9D 00 78 00 ED 00 00 80 00 00 00 00 00 00 55 00 03 00 78 01 D1 00 00 80 00 00 00 00 00 00 55 FF FF 00 78 05 38 00 00 80 00 00 00 00 00 00 55 FF DB 00 78 04 0E 00 00 80 00 00 00 00 00
 
-Haunted Wasteland Room 2. Added unused Navi Information Spot actor for the flags since the game has unused text for her talking about them. I made this actor to be manually triggered by C up but you can change it yourself so its not. And a added Scarecrow Song Spot actor near the Guiding Poe. (Fanmade) I added that because Scarecrow's object or 154 is in the object list for this area. No actor for it though.
+Haunted Wasteland Room 2. Added unused Navi Information Spot actor for the flags since the game has unused text for her talking about them. I made this actor to be manually triggered by C up but you can change it yourself so its not. And a added Scarecrow Song Spot actor near the Guiding Poe. (Fanmade) I added that because Scarecrow's object or 154 is in the object list for this area. No actor for it though. For the unused Navi actor/text, I'm wondering if the original idea was that there would be visible flags out of bounds or in areas where you get sent back to the start. And then the trail of flags you see in the final game would of been invisible so you would use the Lens of Truth to see them to follow the path. This is just a theory though.
 
 01 1B 08 A4 FE AE 09 09 00 88 00 00 00 00 9E 3D 01 C9 02 30 00 F3 F8 2A 00 00 00 00 00 20 05 3B
 
@@ -188,5 +188,9 @@ Oot MQ Debug
 0x2D090A9,1901D5
 0x2D090AE,0320
 0x2D090B2,40
+
+(Fanmade) Spirit Temple Room 6. I added two 173 actors or two Navi Targettable Spots on the nipples since there is unused dialogue in the game that says, "LINK, what are you looking at?"
+
+01 73 00 96 03 34 FA 74 00 06 00 05 00 00 3F 1F 01 73 FF DF 03 34 FA 74 00 06 00 05 00 00 3F 1F
 
 Cutscene Changes for adding some of the final area actors, recreated actors from beta screenshots, fanmade actors, actors from unused setups, and Spaceworld 97 idea actors is not going to be documented for now as idk if someone would want me to.
