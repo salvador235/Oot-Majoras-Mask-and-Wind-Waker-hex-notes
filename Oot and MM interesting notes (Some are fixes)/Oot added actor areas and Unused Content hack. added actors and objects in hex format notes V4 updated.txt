@@ -1,8 +1,12 @@
 So this mod I worked on a while ago added recreated actors from beta screenshots, added fanmade actors, added actors from unused setups, and Spaceworld 97 idea actors.
 
-Bombachu Bowling Alley added actors. There was 1 bomb flower in the middle on the ground in beta screenshot but that one is bad to have because of the cuccos. Also, you may have to change the scene from field to dungeon or 02 to 03 as I put dungeon eye switches in this recreation. I also put 2 Green Bubbles here but 1 is only in that beta screenshot on the left. Maybe the right one could of got destroyed in beta screenshot or maybe it was just 1 bubble? Also, I totally forgot to put the 2 bomb flowers on the floor near the big target circle thing. It was pretty hard to see in the screenshot so I missed it. Anyways, Objects added are 31 & 5D.
+Bombachu Bowling Alley added actors. There was 1 bomb flower in the middle on the ground in beta screenshot but that one is bad to have because of the cuccos. Also, you may have to change the scene from field to dungeon or 02 to 03 as I put dungeon eye switches in this recreation. I also put 2 Green Bubbles here but 1 is only in that beta screenshot on the left. Maybe the right one could of got destroyed in beta screenshot or maybe it was just 1 bubble? Also, I totally forgot to put the 2 bomb flowers on the floor near the big target circle thing. It was pretty hard to see in the screenshot so I missed it. They are on those black triangles in the beta pic. Anyways, Objects added are 31 & 5D.
 
 00 4C 00 DC 00 4B FE 17 40 00 C0 00 00 00 FF FF 00 4C FF 24 00 4B FE 17 40 00 40 00 00 00 FF FF 01 2A FF 83 00 EB FC EE 00 00 00 00 00 00 3F 1A 01 2A 00 7D 00 EB FC EE 00 00 00 00 00 00 3F 1A 00 69 00 82 00 04 FD 24 00 00 00 00 00 00 04 FC 00 69 FF 7E 00 04 FD 24 00 00 00 00 00 00 04 FC 00 4C 00 57 00 46 FC CC 40 00 00 00 00 00 FF FF 00 4C FF A9 00 46 FC CC 40 00 00 00 00 00 FF FF
+
+That 1 bomb flower that was in the middle on the ground. I removed or replaced it with something else in my hack though because of the cuccos that are used there in the final. And I rather have the moving cuccos then this bomb flower thats in the way.
+
+00 4C 00 01 FF 84 FD 99 00 00 00 00 00 00 FF FF
 
 Kakariko Village Child Link. Added actors (Stage 0 and Stage 1) In beta videos of Oot, you could see 2 extra trees in Kakariko. Those were added. If you add any of these Kakariko actors, you may have to add some of them in the cutscene setups like my added 2 Greenery Trees and bugs. And if you use the butterflys. I know in some areas the circle of rocks in the front of Kakariko is not present in some cutscenes so you may have to add those there too.
 
@@ -183,7 +187,8 @@ Oot MQ Debug
 (Fanmade) Back Alley (Day) Restricted using the B button for the added cucco I add there later so you can't attack it and cause a crash.
 0x0B9CAC9,10
 
-(Fanmade) Back Alley (Day) Added Cucco actor and the area where I restricted pressing the B button. In my hack, I did use the rotation actor for the cucco though so I didn't change the rotations of the X & Z. And also the variable.
+(Fanmade) Back Alley (Day) Added Cucco actor and the area where I restricted pressing the B button. In my hack, I did use that rotation actor for the cucco though so I didn't change the rotations of the X & Z. And also the variable. You can use variable FFFF for the Cucco if you add space for the actor instead of using values that are part of the scene like I did. Its 00 19 01 D5 00 00 03 20 01 02 40 00. And then you give it like 8 more numbers after.
+
 0x2D09031,06
 0x2D090A9,1901D5
 0x2D090AE,0320
