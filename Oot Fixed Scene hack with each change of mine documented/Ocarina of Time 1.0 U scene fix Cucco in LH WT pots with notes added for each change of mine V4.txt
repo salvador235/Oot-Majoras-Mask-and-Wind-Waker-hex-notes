@@ -475,6 +475,7 @@ Goron City Bombiwas and Bombable Walls loaded for room 4 of CS 00
 0x22A870E,018A
 
 (Fanmade) Goron City Chest Flag in room 4 of CS 00 was changed or fixed so you can open this one as well after opening the ones in the normal stages. I made a mistake when I edited this actor and changed the chest from bombs to bombchus. Or I did it on purpose as getting bombs again would be boring. So do 0x22A87DF,25 for bombs instead of 0x22A87DF,65.
+
 0x22A87DF,65
 
 Fire Temple Navi Information spot fix in Fire Temple room 14. Y coord was moved lower I think so it can be triggered. And then the unknown 16 or 0x236C05F,16 makes it so after you hit the top part of the megaton statue or set switch flag 15, the navi information spot actor will disappear.
