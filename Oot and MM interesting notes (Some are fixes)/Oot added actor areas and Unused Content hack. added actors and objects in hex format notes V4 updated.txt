@@ -122,11 +122,11 @@ Haunted Wasteland Room 2. Added unused Navi Information Spot actor for the flags
 
 01 1B 08 A4 FE AE 09 09 00 88 00 00 00 00 9E 3D 01 C9 02 30 00 F3 F8 2A 00 00 00 00 00 20 05 3B
 
-Death Mountain Trail Child Link or Stage 0. Added some unused setup actors like the bomb flower, 2 flags, and 2 tektites. There was 1 tektite I added myself that is not in the final game but is in prerelease videos. Its near the rolling goron though. I decided to not add the signs though from the unused setup as the text for those signs are probably outdated and incorrect.
+Death Mountain Trail Child Link or Stage 0. Added some unused setup actors like the bomb flower, 2 flags, and 2 tektites. There was 1 tektite I added myself that is not in the final game but is in prerelease videos. Thats the last actor in this list. Its near the rolling goron though. I decided to not add the signs though from the unused setup as the text for those signs are probably outdated and incorrect.
 
 00 4C FD C6 05 D1 FE 36 00 00 00 00 00 00 FF FF 00 1B F8 78 01 EE 01 99 00 00 00 00 00 00 FF FF 00 1B FB 93 04 8A 04 42 00 00 E0 00 00 00 FF FF 00 26 FB F2 08 A0 FE EE 00 00 00 00 00 00 FF FF 00 26 FC C8 04 BA 04 77 00 00 80 00 00 00 FF FF 00 1B FE F6 05 DC FE 5C 00 00 EC CD 00 00 FF FF
 
-Death Mountain Trail Adult Link or Stage 1. Same actors as before except for the unused setup's bomb flower. I didn't add it as Adult Link's area has no bomb flowers in the final game.
+Death Mountain Trail Adult Link or Stage 1. Same actors as before except for the unused setup's bomb flower. I didn't add it as Adult Link's area has no bomb flowers in the final game. I also moved one Tektite thats up the hill a bit since the rolling boulder would push it.
 
 00 1B F8 78 01 EE 01 99 00 00 00 00 00 00 FF FF 00 1B FB 6B 04 8A 04 1A 00 00 E0 00 00 00 FF FF 00 26 FB F2 08 A0 FE EE 00 00 00 00 00 00 FF FF 00 26 FC C8 04 BA 04 77 00 00 80 00 00 00 FF FF 00 1B FE C9 05 DC FE 77 00 00 EC CD 00 00 FF FF
 
@@ -197,5 +197,21 @@ Oot MQ Debug
 (Fanmade) Spirit Temple Room 6. I added two 173 actors or two Navi Targettable Spots on the nipples since there is unused dialogue in the game that says, "LINK, what are you looking at?"
 
 01 73 00 96 03 34 FA 74 00 06 00 05 00 00 3F 1F 01 73 FF DF 03 34 FA 74 00 06 00 05 00 00 3F 1F
+
+Dampe's Grave & Kakariko Windmill. I added a Square Signpost actor in the scene based off of unused text for racing Dampe.
+
+01 41 00 14 FE 2A F8 D5 00 00 00 00 00 00 03 28
+
+(Fanmade) Dampe's Grave & Kakariko Windmill. Added 2 Poe actors for fun. I did it since the Poe object is in the list for this area.
+
+00 0D 00 DB FD EE F9 EA 00 00 80 00 00 00 00 00 00 0D FE BE FD EE F9 EA 00 00 80 00 00 00 00 00
+
+Royal Family Tomb. I added the unused bombable wall actor from the unused setups of this scene. I also moved it slightly back since if you don't, you could open the Door and go past the bombable wall. I'm wondering if in development or in the beta there was no Door for the Royal Family Tomb nor collision for the door because of that bombable wall actor. Maybe.
+
+00 59 FF FF 00 78 04 79 00 00 00 00 00 00 20 1C
+
+(Fanmade) Royal Family Tomb. I added 3 more Keese actors to make the area more difficult.
+
+00 13 FE E0 00 8C 05 96 00 00 40 00 00 00 00 03 00 13 00 8D 00 5A 04 94 00 00 00 00 00 00 00 03 00 13 FF 73 00 5A 04 94 00 00 00 00 00 00 00 03
 
 Cutscene Changes for adding some of the final area actors, recreated actors from beta screenshots, fanmade actors, actors from unused setups, and Spaceworld 97 idea actors is not going to be documented for now as idk if someone would want me to.
