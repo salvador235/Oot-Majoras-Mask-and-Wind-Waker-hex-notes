@@ -603,6 +603,8 @@ Ice Cavern CS 00 or stage 1 Bombchu Chest loaded in room 4
 0x27A0F56,BD00
 0x27A0F76,BD50
 0x27A1F80,FF04FF04FF04FF04FF04FF04FF05FF04FF04FF04FF04FF04FF04FF04FF04FF04FF04FF04FF04FF05FF04FF04FF04FF04
+
+Stalfos Boss Room fix for something? Unsure. Feel like it may be for the previous scene but hard to tell.
 0x27A20E3,05
 0x27A20E6,57
 0x27A20EB,05
@@ -652,7 +654,7 @@ Kakariko Village Death Mountain Trail Gate loaded in CS 00 (Forgot to fix this i
 0x2834FE9,0A
 0x2835012,0181
 
-Kakariko Village Death Mountain Trail Gate loaded in CS 01 by replacing the useless Soldier object or 97. (In 1.0 U, the Soldier and the other npc actors are in this cutscene but not in MQ.) (Forgot to fix this in my normal Link's hat being longer versions for MQ Debug... Oops)
+Kakariko Village Death Mountain Trail Gate loaded in CS 01 by replacing the useless Soldier object or 97. (In 1.0 U, the Soldier and the other npc actors are in this cutscene but not in MQ or versions I think like 1.2 and after) (Forgot to fix this in my normal Link's hat being longer versions for MQ Debug... Oops)
 0x2835232,0181
 
 Graveyard Transitions Fixed for CS 00 and 01
@@ -688,7 +690,7 @@ Graveyard, Skulltulas and Keeses loaded in room 2 in the normal areas for Adult 
 Kokiri Forest Link's spawnpoint present in CS 00 or in stage 3 I think (Fanmade)
 0x289A296,0D
 
-Kokiri Forest "Sword Area" transitions fix
+Kokiri Forest "Sword Area" transitions fix for cutscenes
 0x289A298,00
 0x289A3C8,00
 0x289A4E8,00
@@ -705,7 +707,7 @@ Kokiri Forest "Sword Area" transitions (Fanmade. Don't include these, as I belie
 Kokiri Forest Link's spawnpoint present in CS 06 or in stage 9 I think (Fanmade)
 0x289AB16,0D
 
-Kokiri "Forest Sword" Area transitions fix. Continued
+Kokiri "Forest Sword" Area transitions fix for cutscenes. Continued
 0x289AB18,00
 0x289ABF8,00
 0x289ACD8,00
